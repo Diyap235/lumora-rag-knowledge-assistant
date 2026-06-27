@@ -1,0 +1,227 @@
+SPACE-O TECHNOLOGIES — REIMBURSEMENT POLICY AND SOP
+Version: 2.0 | Effective: January 2025
+================================================================
+
+SECTION 1: REIMBURSEMENT OVERVIEW
+================================================================
+
+What is the reimbursement policy at Space-O Technologies?
+Space-O Technologies reimburses employees for legitimate business expenses incurred on behalf of the company. This includes travel, accommodation, meals, internet, mobile bills, training, and other pre-approved work-related expenses. All reimbursements must be claimed within 30 days of incurring the expense with valid supporting documents.
+
+What expenses are reimbursable at Space-O?
+The following categories of expenses are eligible for reimbursement:
+- Business travel (flights, trains, buses, cabs)
+- Accommodation during business travel
+- Client entertainment and business meals
+- Mobile phone bills (up to approved limit)
+- Internet/broadband bills for WFH employees (up to approved limit)
+- Training and certification fees (pre-approved)
+- Office supplies purchased for work
+- Conference and event registration fees (pre-approved)
+
+What expenses are NOT reimbursable?
+The following are NOT eligible for reimbursement:
+- Personal travel or vacations
+- Alcohol (unless explicitly approved for client entertainment)
+- Fines or penalties (traffic fines, parking fines)
+- Personal grooming or clothing
+- Gym or fitness memberships (unless part of approved wellness program)
+- Expenses without receipts or bills
+- Expenses claimed after 30 days of incurring them
+
+
+SECTION 2: HOW TO SUBMIT A REIMBURSEMENT CLAIM
+================================================================
+
+What is the process to submit a reimbursement claim?
+The reimbursement claim process at Space-O Technologies is as follows:
+Step 1: Log in to the HRMS portal.
+Step 2: Navigate to Finance → Expense Claims.
+Step 3: Click "New Claim" and select the expense category.
+Step 4: Enter the date, amount, and description of the expense.
+Step 5: Upload the original receipt or bill (clear photo or scanned copy).
+Step 6: Submit the claim for manager approval.
+Step 7: Manager approves and forwards to Finance team.
+Step 8: Finance processes the reimbursement within 7-10 working days.
+Step 9: Amount is credited to your registered bank account.
+
+How do I claim reimbursement?
+To claim reimbursement: login to HRMS → Finance → Expense Claims → New Claim → fill in expense details → upload receipt → submit. Your manager will approve and Finance will process payment within 7-10 working days.
+
+How do I submit an expense claim?
+Submit expense claims through the HRMS portal under Finance → Expense Claims. Fill in the expense details, attach original receipts, and submit for manager approval. Claims without receipts will be rejected.
+
+What documents are needed to claim reimbursement?
+Required documents for reimbursement:
+- Original receipt or invoice (digital copy accepted)
+- For travel: tickets, boarding passes, or cab/auto receipts
+- For meals: restaurant bill with GST number
+- For accommodation: hotel invoice with GST number
+- For training: course fee receipt and manager pre-approval email
+- For mobile/internet: monthly bill from service provider
+
+What is the deadline to submit a reimbursement claim?
+All expense claims must be submitted within 30 days of incurring the expense. Claims submitted after 30 days will not be processed except in exceptional circumstances with written approval from the Finance Head.
+
+
+SECTION 3: TRAVEL REIMBURSEMENT
+================================================================
+
+What travel expenses are covered by Space-O?
+Space-O reimburses the following travel expenses for official business trips:
+- Flights: Economy class for domestic travel. Business class requires VP approval.
+- Train: AC First Class or AC 2-Tier for journeys over 4 hours.
+- Cab/Auto: Actual fare with receipt. For Ola/Uber, screenshot of the app receipt is acceptable.
+- Local conveyance: Actual fare for local travel during business trips.
+
+What is the cab reimbursement policy for office commute?
+Daily office commute is not reimbursed. However, the following are reimbursable:
+- Late night cab (after 9:00 PM): Actual fare reimbursed for employee safety.
+- Early morning travel for client meetings before 8:00 AM: Actual fare reimbursed.
+- Travel to client sites during working hours: Actual fare reimbursed.
+
+How do I claim cab expenses?
+For Ola/Uber: take a screenshot of the trip receipt in the app. For auto/taxi: get a handwritten receipt. Upload these in the HRMS portal under Expense Claims → Travel → Local Conveyance.
+
+What is the per diem allowance for business travel?
+Daily allowance (per diem) for employees on official travel:
+- Metro cities (Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Pune): Rs. 1,500 per day
+- Tier 2 cities: Rs. 1,000 per day
+- International travel: As per destination-specific rates communicated by HR
+Per diem covers meals and incidental expenses during travel.
+
+What is the hotel accommodation policy?
+For official travel requiring overnight stay:
+- Within India: Hotel up to Rs. 3,000 per night (Tier 2 cities) or Rs. 5,000 per night (Metro cities)
+- Pre-booking required through company-approved vendors when possible
+- Hotel invoice with GST number is mandatory for reimbursement
+
+
+SECTION 4: MOBILE AND INTERNET REIMBURSEMENT
+================================================================
+
+What is the mobile phone reimbursement policy?
+Employees in roles requiring frequent client communication are eligible for mobile bill reimbursement:
+- Junior employees (0-2 years): Up to Rs. 500 per month
+- Mid-level employees (2-5 years): Up to Rs. 750 per month
+- Senior employees and above: Up to Rs. 1,000 per month
+Submit your monthly mobile bill through HRMS by the 5th of the following month.
+
+What is the internet reimbursement for work from home?
+Employees approved for regular WFH are eligible for internet bill reimbursement:
+- Up to Rs. 750 per month for broadband/fiber connection
+- Submit monthly internet bill through HRMS by the 5th of the following month
+- Reimbursement is only for the months when WFH was approved
+
+How do I claim my mobile bill reimbursement?
+To claim mobile reimbursement: download your monthly bill from your telecom provider → login to HRMS → Expense Claims → Utilities → Mobile Bill → upload bill → submit. Claims must be submitted by the 5th of the following month.
+
+
+SECTION 5: TRAINING AND CERTIFICATION REIMBURSEMENT
+================================================================
+
+Does Space-O reimburse training and certification costs?
+Yes. Space-O Technologies supports employee learning and development. Training and certification fees are reimbursable subject to the following conditions:
+- Prior approval from your reporting manager AND HR is mandatory.
+- The certification must be relevant to your current role or career growth at Space-O.
+- Reimbursement is provided after successful completion of the course or certification.
+
+What training expenses are covered?
+Covered training expenses include:
+- Online course fees (Udemy, Coursera, LinkedIn Learning, etc.)
+- Certification exam fees (AWS, Google Cloud, PMP, etc.)
+- Workshop or conference registration fees
+- Books and study materials up to Rs. 1,000 per certification
+
+What is the training reimbursement process?
+Step 1: Identify the course or certification you want to pursue.
+Step 2: Send a pre-approval email to your manager explaining the course, cost, and how it benefits your role.
+Step 3: Manager approves and forwards to HR.
+Step 4: Complete the course/certification.
+Step 5: Submit the fee receipt and certificate of completion in HRMS.
+Step 6: Finance processes reimbursement within 7-10 working days.
+
+Is there a limit on training reimbursement?
+Annual training reimbursement limit per employee:
+- Junior employees: Up to Rs. 10,000 per year
+- Mid-level employees: Up to Rs. 20,000 per year
+- Senior employees: Up to Rs. 30,000 per year
+Amounts above these limits require Finance Head approval.
+
+What if I leave the company after getting training reimbursed?
+If you leave Space-O within 12 months of receiving training reimbursement above Rs. 5,000, a proportional recovery may be made from your full and final settlement. This will be communicated in the training approval letter.
+
+
+SECTION 6: REIMBURSEMENT APPROVAL AND PAYMENT
+================================================================
+
+Who approves reimbursement claims?
+Reimbursement claims are approved in the following hierarchy:
+- Claims up to Rs. 5,000: Reporting Manager approval only
+- Claims Rs. 5,000 to Rs. 25,000: Reporting Manager + Finance Team
+- Claims above Rs. 25,000: Reporting Manager + Finance Head + VP approval
+
+How long does reimbursement take to process?
+Once your claim is approved by your manager:
+- Finance team reviews the claim within 2-3 working days
+- Payment is processed in the next reimbursement cycle
+- Amount is credited to your registered bank account within 7-10 working days
+- You will receive an email confirmation when payment is processed
+
+When are reimbursements paid out?
+Reimbursements are processed in two cycles per month:
+- Cycle 1: Claims submitted and approved by the 10th → paid by the 20th
+- Cycle 2: Claims submitted and approved by the 25th → paid by the 5th of next month
+
+How do I track the status of my reimbursement claim?
+You can track your claim status in the HRMS portal under Finance → Expense Claims → My Claims. Status will show as Pending, Manager Approved, Finance Approved, or Paid.
+
+What happens if my reimbursement claim is rejected?
+If your claim is rejected, you will receive a notification with the reason. Common reasons include:
+- Missing or unclear receipt
+- Expense submitted after 30-day deadline
+- Expense category not covered under policy
+- Amount exceeds approved limits
+You can resubmit with correct documents or raise a query to hr@spaceo.in.
+
+
+SECTION 7: ADVANCE PAYMENT AND SPECIAL CASES
+================================================================
+
+Can I get an advance for business travel expenses?
+Yes. For official travel, employees can request a travel advance before the trip:
+Step 1: Submit a Travel Advance Request in HRMS at least 5 working days before travel.
+Step 2: Enter the estimated expenses with breakdown.
+Step 3: Manager approves and Finance releases the advance.
+Step 4: After travel, submit actual expense claims within 7 days.
+Step 5: Remaining advance is returned or excess expenses are reimbursed.
+
+What if I paid a large expense on behalf of the company?
+For large expenses (above Rs. 10,000) that you paid personally, contact Finance immediately. Attach the receipt and a brief email from your manager confirming the expense was business-related. Finance will expedite the reimbursement outside the normal cycle.
+
+Can I claim reimbursement for expenses paid by someone else?
+No. Reimbursements are only processed for expenses paid by the claimant. If a colleague paid on your behalf, they must claim it under their own name.
+
+
+SECTION 8: CONTACT AND SUPPORT
+================================================================
+
+Who do I contact for reimbursement queries?
+For reimbursement queries, contact:
+- Your Reporting Manager: For claim approvals and policy questions
+- Finance Team: finance@spaceo.in
+- HR Department: hr@spaceo.in
+- HRMS Support: hrms-support@spaceo.in
+
+What should I do if my reimbursement is delayed?
+If your reimbursement has not been credited after 10 working days of approval, email finance@spaceo.in with your claim number, approval date, and bank account details. Finance will investigate and respond within 2 working days.
+
+Where can I see the reimbursement policy document?
+The full reimbursement policy is available in the HR portal under Policies → Finance → Reimbursement Policy. You can also ask Lumora for any specific policy queries.
+
+================================================================
+This document is intended for internal use only.
+Space-O Technologies Finance & HR Department
+finance@spaceo.in | hr@spaceo.in
+Last updated: January 2025
+================================================================

@@ -1,0 +1,15 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+python-dotenv==1.0.1
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+sentence-transformers
+chromadb
+pypdf==4.2.0
+docx2txt==0.8
+groq

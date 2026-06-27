@@ -1,0 +1,668 @@
+================================================================================
+NEXACORE TECHNOLOGIES PVT. LTD.
+EMPLOYEE HANDBOOK
+Version 4.2 | Effective Date: January 1, 2025
+Confidential – For Internal Use Only
+================================================================================
+
+FOREWORD FROM THE CEO
+
+Welcome to NexaCore Technologies. This Employee Handbook has been prepared to
+help you understand the standards, expectations, and policies that govern your
+employment with us. It is not merely a rulebook — it is a reflection of the
+culture we have worked hard to build: one that values integrity, collaboration,
+continuous learning, and mutual respect.
+
+Please read this document carefully. You are expected to familiarise yourself
+with its contents and comply with all policies described herein. This handbook
+supersedes all previous versions and informal communications regarding the same
+topics.
+
+If you have questions about any section, please contact the Human Resources
+department at hr@nexacore.in or visit HR on the 3rd floor, Building A.
+
+— Rajiv Mehta, Chief Executive Officer
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1.  About NexaCore Technologies
+2.  Employment Classification
+3.  Probation Policy
+4.  Working Hours and Attendance
+5.  Code of Conduct
+6.  Performance Management
+7.  Compensation and Payroll
+8.  Leave Policy Overview (See also: Leave_Policy.docx)
+9.  Benefits and Perquisites
+10. Travel and Reimbursement Overview (See also: Reimbursement_SOP.docx)
+11. IT and Equipment Policy Overview (See also: IT_Setup_Guide.docx)
+12. Disciplinary Procedures
+13. Grievance Redressal
+14. Separation and Exit Process
+15. Amendments and Acknowledgement
+
+================================================================================
+SECTION 1: ABOUT NEXACORE TECHNOLOGIES
+================================================================================
+
+1.1 Company Overview
+--------------------
+NexaCore Technologies Pvt. Ltd. is a mid-sized enterprise software and IT
+services company headquartered in Bengaluru, Karnataka, with offices in
+Hyderabad, Mumbai, Pune, and Chennai. Founded in 2009, NexaCore has grown to
+employ over 2,400 professionals across engineering, product, sales, operations,
+and corporate functions.
+
+Our core verticals include:
+  - Enterprise Resource Planning (ERP) Implementations
+  - Cloud Migration and DevOps Services
+  - Cybersecurity Consulting
+  - Data Engineering and Analytics
+
+1.2 Mission and Values
+----------------------
+Mission: To deliver transformative technology solutions that drive measurable
+business outcomes for our clients while creating meaningful careers for our
+people.
+
+Core Values:
+  - Integrity First: We act with honesty and transparency in all interactions.
+  - Client Centricity: Client success is our success.
+  - Innovation: We challenge the status quo constructively.
+  - People First: Our employees are our greatest asset.
+  - Accountability: We own our results — both successes and failures.
+
+1.3 Organisational Structure
+-----------------------------
+NexaCore operates under a matrix organisational structure. Employees report
+to a functional manager (e.g., Engineering Manager, Finance Manager) and may
+also report to a project or account manager depending on active engagements.
+
+The senior leadership team comprises the CEO, COO, CFO, CTO, VP of HR, and
+Regional Heads. HR Business Partners (HRBPs) are assigned to each business
+unit and serve as the first point of contact for employee queries.
+
+================================================================================
+SECTION 2: EMPLOYMENT CLASSIFICATION
+================================================================================
+
+2.1 Types of Employment
+------------------------
+NexaCore classifies employees into the following categories:
+
+  a) Permanent Full-Time Employees: Hired on an indefinite basis, eligible for
+     all benefits described in this handbook.
+
+  b) Fixed-Term Contract Employees: Hired for a specific duration (typically
+     6 months to 2 years). Benefits eligibility is limited as specified in the
+     individual employment contract.
+
+  c) Probationary Employees: All new hires serve a probationary period before
+     confirmation. See Section 3.
+
+  d) Interns and Trainees: Governed by a separate Internship Policy. Not
+     covered by this handbook unless specifically stated.
+
+  e) Consultants and Contractors: Engaged through third-party agreements. Not
+     employees of NexaCore. Not covered by this handbook.
+
+2.2 Role Bands
+--------------
+NexaCore uses a graded role band structure:
+
+  Band 1 (B1): Analyst / Associate
+  Band 2 (B2): Senior Analyst / Senior Associate
+  Band 3 (B3): Consultant / Specialist
+  Band 4 (B4): Senior Consultant / Lead
+  Band 5 (B5): Manager
+  Band 6 (B6): Senior Manager / Associate Director
+  Band 7 (B7): Director
+  Band 8 (B8): Vice President and above
+
+Compensation, leave entitlements, travel allowances, and authority limits
+vary by band. Refer to the applicable appendix or policy document for band-
+specific details.
+
+================================================================================
+SECTION 3: PROBATION POLICY
+================================================================================
+
+3.1 Duration of Probation
+--------------------------
+All new permanent employees serve a mandatory probationary period of 90 days
+(3 months) from their date of joining. During this period, either party may
+terminate employment with a notice period of 15 days or payment in lieu.
+
+Exception: Lateral hires at Band 6 and above may have their probation waived
+at the discretion of the CHRO with written justification.
+
+3.2 What Happens During Probation
+-----------------------------------
+During probation, the employee:
+  - Is not eligible for annual leave (Earned Leave/Privilege Leave). They
+    accrue leave but cannot encash or take it until confirmation.
+  - Is eligible for Sick Leave (up to 5 days, not carried forward post-
+    confirmation if unused).
+  - Is not eligible for domestic or international travel reimbursement beyond
+    standard commute.
+  - May attend all company events and training programs.
+  - Will be assigned a buddy/mentor for the first 30 days.
+  - Will receive a 30-day and 60-day check-in with their manager.
+
+3.3 Probation Review
+---------------------
+At the end of the 90-day period, the reporting manager submits a probation
+evaluation form through the HRMS (NexaCore People Portal). The HRBP reviews
+the form and initiates confirmation.
+
+Possible outcomes:
+  a) Confirmed: Employee transitions to permanent status. Full benefits activate.
+  b) Extended Probation: Probation extended for a further 30 or 60 days with
+     documented performance improvement expectations.
+  c) Separation: Employment terminated. Notice and final settlement processed
+     within 15 working days.
+
+3.4 Extended Probation Rules
+------------------------------
+Probation can be extended a maximum of two times. The total probation period
+shall not exceed 180 days. After 180 days, the employee must either be
+confirmed or separated. Failure to initiate the review is an HR compliance
+violation.
+
+================================================================================
+SECTION 4: WORKING HOURS AND ATTENDANCE
+================================================================================
+
+4.1 Standard Working Hours
+----------------------------
+NexaCore operates a 5-day work week, Monday through Friday.
+
+  Standard Shift (default): 9:00 AM to 6:00 PM, with a 1-hour lunch break.
+  Flexible Window: Employees may start between 8:00 AM and 10:30 AM and end
+  correspondingly, subject to manager approval.
+
+A minimum of 8.5 hours (excluding lunch) constitutes a full working day.
+Employees are expected to log a minimum of 42.5 hours per week.
+
+4.2 Attendance Marking
+-----------------------
+Attendance is tracked through:
+  - Biometric devices at office entry points, OR
+  - Remote check-in via the NexaCore People Portal (for remote/hybrid employees)
+
+Failure to mark attendance on more than 3 consecutive days without intimation
+will be treated as unauthorised absence, which may lead to loss of pay (LOP)
+and disciplinary action.
+
+4.3 Late Arrivals and Early Departures
+----------------------------------------
+Up to 3 late arrivals (more than 30 minutes after shift start) per month are
+condoned without penalty. The 4th and subsequent late arrivals in the same
+calendar month result in a half-day LOP for each instance.
+
+Early departures beyond the permissible flexible window follow the same rule.
+
+4.4 Remote Work Policy
+-----------------------
+Employees at B3 and above may be eligible for up to 2 work-from-home days per
+week, subject to:
+  - Manager approval
+  - Minimum 3 months of confirmed service
+  - No active Performance Improvement Plan (PIP)
+  - Role not requiring mandatory on-site presence
+
+Employees working remotely must be reachable during standard working hours
+and must mark attendance via the portal. Failure to be reachable for 2+ hours
+during core hours (10:00 AM to 4:00 PM) without prior intimation will be
+treated as a half-day absence.
+
+4.5 Overtime
+-------------
+NexaCore does not have a structured overtime payment policy for Band 3 and
+above. Employees at B1 and B2 working more than 48 hours in a week may be
+eligible for compensatory off (Comp-Off), approved by their manager and
+recorded in HRMS within 7 days of the overtime worked.
+
+================================================================================
+SECTION 5: CODE OF CONDUCT
+================================================================================
+
+5.1 General Behaviour Standards
+---------------------------------
+All employees are expected to:
+  - Maintain professional, respectful, and inclusive behaviour at all times.
+  - Protect confidential business and client information.
+  - Avoid conflicts of interest and disclose potential conflicts immediately
+    to their manager or the Legal team.
+  - Not engage in any form of workplace harassment, bullying, or discrimination.
+  - Represent NexaCore's values in client-facing and public interactions.
+
+5.2 Conflict of Interest
+-------------------------
+Employees must not:
+  - Hold a financial interest in a competitor or client without disclosure.
+  - Engage in secondary employment that conflicts with NexaCore's interests.
+  - Accept gifts from vendors or clients valued over INR 2,000 per occasion.
+    Gifts above this value must be declared to HR and Finance within 5 days.
+  - Use company resources for personal commercial activities.
+
+5.3 Confidentiality and Non-Disclosure
+----------------------------------------
+Upon joining, all employees sign a Non-Disclosure Agreement (NDA) that remains
+in force during and after employment. Disclosure of proprietary information,
+client data, source code, pricing details, or business strategies to third
+parties is strictly prohibited and may result in immediate termination and
+legal action.
+
+5.4 Social Media Policy
+------------------------
+Employees may not post content online that:
+  - Discloses client names, project details, or internal financial data.
+  - Makes disparaging remarks about NexaCore, its leadership, or employees.
+  - Could be misrepresented as an official statement by NexaCore.
+
+Personal opinions on industry topics are generally permitted provided they
+include a clear disclaimer: "Views are personal and not those of my employer."
+
+5.5 Dress Code
+---------------
+NexaCore follows a smart-casual dress code for office days. Formal attire is
+expected for client-site visits, presentations, and formal events. Employees
+must use judgement appropriate to the context. Overly casual clothing (e.g.,
+torn jeans, slippers) is not permitted in the office.
+
+================================================================================
+SECTION 6: PERFORMANCE MANAGEMENT
+================================================================================
+
+6.1 Performance Review Cycle
+------------------------------
+NexaCore follows a bi-annual performance review cycle:
+
+  - Mid-Year Review: September (for the period April to September)
+  - Annual Review: March (for the full financial year, April to March)
+
+Performance is rated on a 5-point scale:
+  5 – Exceptional
+  4 – Exceeds Expectations
+  3 – Meets Expectations
+  2 – Partially Meets Expectations
+  1 – Does Not Meet Expectations
+
+6.2 Goal Setting
+-----------------
+At the beginning of each financial year (April), employees set goals in the
+HRMS aligned to team and company OKRs. Goals are reviewed and approved by the
+reporting manager. Mid-year goals may be revised if business needs change.
+
+6.3 Performance Improvement Plan (PIP)
+----------------------------------------
+Employees who receive a rating of 1 or 2 at the Annual Review may be placed
+on a PIP. The PIP includes:
+  - Specific, measurable improvement objectives with timelines.
+  - Bi-weekly check-ins with the manager.
+  - HR oversight throughout the process.
+  - Duration: typically 60 to 90 days.
+
+During an active PIP:
+  - The employee is not eligible for promotion or salary increment.
+  - Remote work privileges may be suspended.
+  - Leave greater than 3 consecutive days requires HRBP approval.
+
+An employee who successfully completes a PIP is confirmed back on regular
+performance track. An employee who fails to meet PIP objectives may be
+separated from the organisation with appropriate notice.
+
+6.4 Promotion Policy
+---------------------
+Promotions are considered annually at the time of the Annual Review.
+Requirements for promotion include:
+  - Minimum 18 months in current role (exceptions possible for exceptional
+    performers with VP-level endorsement).
+  - A rating of 4 or 5 at the most recent Annual Review.
+  - A documented business case submitted by the reporting manager.
+  - Approval by the band's promotion committee.
+
+================================================================================
+SECTION 7: COMPENSATION AND PAYROLL
+================================================================================
+
+7.1 Salary Structure
+---------------------
+Employee compensation comprises:
+  - Fixed Gross Salary (Basic + HRA + Conveyance + Special Allowance)
+  - Variable Pay (performance-linked; applicable from B3 onwards)
+  - Statutory benefits (PF, Gratuity, ESI as applicable)
+
+The CTC (Cost to Company) breakup is provided in each employee's offer letter
+and reflected in the payslip available on the NexaCore People Portal.
+
+7.2 Payroll Processing
+-----------------------
+Salary is processed on the last working day of each calendar month. If the
+last working day falls on a public holiday, salary is credited on the
+preceding working day.
+
+Salary is directly transferred to the bank account registered in the employee's
+profile on the HR portal. Employees are responsible for keeping bank details
+updated.
+
+7.3 Tax and Declarations
+-------------------------
+NexaCore deducts TDS (Tax Deducted at Source) per the Income Tax Act.
+Employees must submit their investment declarations by April 30 for the new
+financial year. Final proof of investments must be submitted by January 31.
+Failure to submit on time results in TDS deduction on maximum slab.
+
+7.4 Salary Revisions
+---------------------
+Salary revisions occur annually in April based on performance ratings:
+  Rating 5 – Up to 25% increment
+  Rating 4 – 15% to 20% increment
+  Rating 3 – 8% to 12% increment
+  Rating 2 – 0% to 5% increment (discretionary)
+  Rating 1 – No increment; PIP initiated
+
+================================================================================
+SECTION 8: LEAVE POLICY OVERVIEW
+================================================================================
+
+NexaCore's comprehensive leave policy is detailed in the separate document:
+Leave_Policy.docx (available on the HR portal and the internal wiki).
+
+Summary of leave types:
+  - Earned Leave (EL) / Privilege Leave (PL): 18 days per year (accrued monthly)
+  - Casual Leave (CL): 8 days per year
+  - Sick Leave (SL): 12 days per year
+  - Maternity Leave (ML): 26 weeks (as per Maternity Benefit Act, 1961)
+  - Paternity Leave: 5 days
+  - Bereavement Leave: 3 days
+  - Optional Holidays (OH): 2 days per year from a published list
+  - Leave Without Pay (LWP): Applicable when all balances are exhausted
+
+For leave application procedures, approval workflows, encashment rules, and
+escalation paths, refer to Leave_Policy.docx.
+
+================================================================================
+SECTION 9: BENEFITS AND PERQUISITES
+================================================================================
+
+9.1 Health Insurance
+---------------------
+All confirmed employees are enrolled in NexaCore's Group Mediclaim Policy:
+  - Coverage: INR 5,00,000 per annum (floater for self + spouse + 2 children)
+  - Coverage for parents: INR 3,00,000 per annum (optional; premium shared)
+  - Pre-existing conditions covered from Day 1 for self and spouse.
+
+Claims are managed through our TPA (Third-Party Administrator): StarHealth
+Assist. For claim procedures, contact healthbenefits@nexacore.in.
+
+9.2 Life and Accident Insurance
+---------------------------------
+  - Group Term Life Insurance: 4x annual CTC (for all confirmed employees)
+  - Personal Accident Cover: 3x annual CTC
+  - Both policies are company-funded.
+
+9.3 Provident Fund (PF)
+------------------------
+All employees are enrolled in the Employee Provident Fund (EPF) under the
+EPF Act, 1952. Employee contribution: 12% of Basic Salary. Company
+contribution: 12% of Basic Salary (3.67% to EPF, 8.33% to EPS). The
+Universal Account Number (UAN) is provided on the payslip.
+
+9.4 Gratuity
+-------------
+Employees who complete 5 or more years of continuous service are eligible for
+gratuity under the Payment of Gratuity Act, 1972. Calculation: (Last Basic
+Salary / 26) × 15 × Number of Years of Service.
+
+9.5 Employee Assistance Programme (EAP)
+-----------------------------------------
+NexaCore provides a free, confidential Employee Assistance Programme covering
+mental health counselling, financial advisory, and legal consultation. Contact
+eap@nexacore.in or call 1800-XXX-XXXX (toll-free).
+
+9.6 Learning and Development
+------------------------------
+Each employee has access to:
+  - INR 25,000 per year L&D budget for approved certifications and courses.
+  - NexaCore Academy (internal LMS with 300+ courses).
+  - Reimbursement for professional memberships up to INR 5,000 per year.
+
+L&D reimbursement follows the process described in Reimbursement_SOP.docx.
+
+================================================================================
+SECTION 10: TRAVEL AND REIMBURSEMENT OVERVIEW
+================================================================================
+
+Detailed travel and expense reimbursement procedures, approval workflows,
+per diem rates, and submission timelines are documented in:
+Reimbursement_SOP.docx
+
+Key points:
+  - All business travel must be pre-approved by the reporting manager.
+  - Travel bookings must be made through the approved travel portal or
+    designated Travel Desk.
+  - Expense claims must be submitted within 30 days of travel completion.
+  - Personal travel combined with business travel is subject to specific rules
+    described in Reimbursement_SOP.docx.
+
+================================================================================
+SECTION 11: IT AND EQUIPMENT POLICY OVERVIEW
+================================================================================
+
+Refer to IT_Setup_Guide.docx for:
+  - Device allocation and configuration procedures.
+  - VPN access and remote work setup.
+  - Software installation policies.
+  - Data security and device usage rules.
+  - Lost device procedures.
+  - Offboarding and device return.
+
+Key principles:
+  - All company devices are the property of NexaCore and must be returned
+    upon separation or when reassigned.
+  - Employees must not install unauthorised software on company devices.
+  - Company devices must not be used for personal commercial activities.
+
+================================================================================
+SECTION 12: DISCIPLINARY PROCEDURES
+================================================================================
+
+12.1 Principles
+----------------
+NexaCore follows a fair and progressive disciplinary process. The aim is
+corrective, not punitive, except in cases of serious misconduct.
+
+12.2 Types of Misconduct
+-------------------------
+Minor Misconduct (examples):
+  - Repeated late attendance
+  - Non-compliance with dress code
+  - Failure to submit timesheets on time
+  - Disrespectful communication
+
+Major Misconduct (examples):
+  - Harassment or discrimination
+  - Falsification of expense claims
+  - Disclosure of confidential information
+  - Violence or threats in the workplace
+  - Gross insubordination
+  - Theft or fraud
+
+12.3 Progressive Disciplinary Steps
+--------------------------------------
+For Minor Misconduct:
+  Step 1: Verbal warning (documented in employee file)
+  Step 2: Written warning
+  Step 3: Final written warning + corrective action plan
+  Step 4: Suspension (with or without pay, depending on severity)
+  Step 5: Termination
+
+For Major Misconduct:
+  The above steps may be bypassed. Depending on severity, action may commence
+  at Step 3, 4, or directly at termination, following a proper inquiry process.
+
+12.4 Inquiry Process
+---------------------
+When a formal inquiry is required:
+  1. HR issues a charge sheet to the employee.
+  2. Employee has 48 hours to respond (or more, at HR discretion).
+  3. An Inquiry Committee is constituted (HR + neutral manager + optional
+     legal representative).
+  4. The inquiry is conducted within 15 working days.
+  5. The Inquiry Committee submits findings to the HR Head.
+  6. The HR Head, in consultation with the relevant VP, decides on action.
+  7. The employee is informed in writing within 5 working days of the decision.
+
+The employee has the right to be heard, but not the right to legal
+representation during the inquiry (unless the matter involves criminal
+proceedings).
+
+================================================================================
+SECTION 13: GRIEVANCE REDRESSAL
+================================================================================
+
+13.1 Informal Resolution
+-------------------------
+Employees are encouraged to first attempt informal resolution by discussing
+the issue with their manager. If the manager is the subject of the grievance,
+the employee should approach the HRBP directly.
+
+13.2 Formal Grievance Procedure
+---------------------------------
+Step 1: Employee submits a written grievance to the HRBP via email at
+        grievance@nexacore.in or through the portal. The grievance must be
+        filed within 30 days of the incident.
+
+Step 2: HRBP acknowledges the grievance within 3 working days and begins
+        investigation.
+
+Step 3: HRBP issues a written response within 15 working days.
+
+Step 4: If unsatisfied, the employee may escalate to the HR Head within
+        7 working days of receiving the response.
+
+Step 5: If still unresolved, the matter may be escalated to the CHRO or
+        submitted to the Employee Relations Committee.
+
+13.3 Anti-Retaliation Policy
+------------------------------
+NexaCore strictly prohibits retaliation against any employee who files a
+grievance in good faith. Retaliation by a manager or colleague will be treated
+as Major Misconduct. Employees who experience retaliation must report it
+immediately to the CHRO.
+
+13.4 POSH Committee (Prevention of Sexual Harassment)
+-------------------------------------------------------
+NexaCore has a constituted Internal Committee (IC) under the POSH Act, 2013.
+Complaints of sexual harassment must be filed directly with the IC
+Presiding Officer. The IC process is separate from the general grievance
+process and governed by the POSH Policy (separate document). Contact:
+posh@nexacore.in.
+
+================================================================================
+SECTION 14: SEPARATION AND EXIT PROCESS
+================================================================================
+
+14.1 Notice Period
+-------------------
+Standard notice periods by band:
+  B1 – B2: 30 days
+  B3 – B4: 45 days
+  B5 – B6: 60 days
+  B7 – B8: 90 days
+
+Notice must be submitted in writing through the HRMS Exit Module. Verbal
+resignation is not accepted. Notice period begins from the date of written
+submission.
+
+14.2 Notice Buy-Out
+--------------------
+Employees may request to buy out their notice period by paying the equivalent
+of remaining notice period salary. This is subject to business approval from
+the Delivery Head and HR. Payment must be made before the last working day.
+
+14.3 Garden Leave
+------------------
+NexaCore reserves the right to place an employee on garden leave during the
+notice period, whereby the employee is asked to not report to work while
+remaining on the payroll.
+
+14.4 Exit Formalities
+----------------------
+Before the last working day, the employee must complete:
+  - Handover of all ongoing work and documentation (checklist in HRMS)
+  - Return of company assets (laptop, ID card, access card)
+  - Clearance from Finance, IT, and Admin
+  - Exit interview (optional but encouraged)
+
+Full and final settlement (F&F) will be processed within 30 working days
+of the last working day, subject to clearances being completed.
+
+14.5 Termination by Company
+-----------------------------
+In cases of termination for cause, the investigation and approval process
+(Section 12) must be completed first. For termination without cause (e.g.,
+role elimination), employees receive severance as per the applicable band:
+  B1 – B4: 1 month CTC per year of service (capped at 6 months)
+  B5 and above: Governed by individual contract.
+
+================================================================================
+SECTION 15: AMENDMENTS AND ACKNOWLEDGEMENT
+================================================================================
+
+15.1 Amendments
+----------------
+NexaCore reserves the right to amend, update, or revoke any policy in this
+handbook with 30 days' notice to employees. Updates are published on the HR
+portal and communicated via email. Employees are responsible for reviewing
+updates.
+
+15.2 Acknowledgement
+---------------------
+All employees must sign the Handbook Acknowledgement Form available on the
+NexaCore People Portal within 7 days of joining or within 7 days of any
+major handbook revision. Failure to acknowledge does not exempt the employee
+from compliance.
+
+================================================================================
+FREQUENTLY ASKED QUESTIONS – EMPLOYEE HANDBOOK
+================================================================================
+
+Q1: I just joined. When will I be confirmed?
+A: After your 90-day probation period, your manager initiates the confirmation
+   process. If you don't hear anything by Day 85, proactively follow up with
+   your manager and HRBP.
+
+Q2: Can I moonlight or freelance while employed at NexaCore?
+A: Light freelance work in a non-competing domain may be permissible with
+   prior written disclosure to your manager and HRBP. Any work for a direct
+   competitor or NexaCore's clients is strictly prohibited. Refer to Section 5.2.
+
+Q3: What if I disagree with my performance rating?
+A: You may raise a rating dispute through the HRMS within 7 days of receiving
+   your final rating. The HRBP will facilitate a review discussion with you
+   and your manager. If still unresolved, escalate per Section 13.
+
+Q4: What is the process for applying for an internal transfer?
+A: Internal transfer requests can be submitted on the portal after 18 months
+   in the current role. The transfer is subject to the receiving team's
+   headcount approval and the releasing manager's agreement.
+
+Q5: Who do I contact for payslip or TDS certificate issues?
+A: Contact payroll@nexacore.in for payslip corrections and tds@nexacore.in
+   for Form 16 and TDS certificate queries.
+
+Q6: How do I escalate an HR issue if my HRBP is not responsive?
+A: If your HRBP does not respond within the SLA (3 working days for
+   acknowledgement, 15 for resolution), escalate directly to the HR Head
+   at hrhead@nexacore.in. You may also use the anonymous concerns hotline.
+
+================================================================================
+END OF EMPLOYEE HANDBOOK v4.2
+Document Owner: VP – Human Resources
+Last Reviewed: November 2024 | Next Review Due: November 2025
+================================================================================

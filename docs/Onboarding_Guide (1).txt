@@ -1,0 +1,619 @@
+================================================================================
+NEXACORE TECHNOLOGIES PVT. LTD.
+NEW EMPLOYEE ONBOARDING GUIDE
+Version 6.1 | Effective Date: January 1, 2025
+Confidential – For Internal Use Only
+Document Reference: HR-OBD-001
+================================================================================
+
+WELCOME MESSAGE
+
+Congratulations on joining NexaCore Technologies! We are delighted to have you
+with us and look forward to your contributions. Onboarding at NexaCore is
+designed to be comprehensive, structured, and supportive. This guide will walk
+you through everything you need to do in your first 90 days.
+
+This guide should be read alongside:
+  - Employee Handbook (Employee_Handbook.docx): Policies and conduct
+  - Leave Policy (Leave_Policy.docx): Leave entitlements
+  - IT Setup Guide (IT_Setup_Guide.docx): Technical setup
+  - Reimbursement SOP (Reimbursement_SOP.docx): Expense claims
+
+If at any point you feel confused or overwhelmed, your assigned Onboarding
+Buddy and your HRBP are here to help.
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1.  Before Your First Day (Pre-Joining Checklist)
+2.  Day 1: Arrival and Administrative Setup
+3.  Week 1: Orientation and Access Setup
+4.  Month 1: Immersion and Integration
+5.  Month 2 and 3: Probation Period Activities
+6.  Documents Required for Onboarding
+7.  Access and Systems Overview
+8.  Onboarding for Remote Employees
+9.  Relocation Assistance
+10. Buddy Programme
+11. Training and Learning Path
+12. 30-60-90 Day Goals Framework
+13. Confirmation and Post-Probation
+14. Frequently Asked Questions
+
+================================================================================
+SECTION 1: BEFORE YOUR FIRST DAY (PRE-JOINING CHECKLIST)
+================================================================================
+
+1.1 Actions Required from You (Before Day 1)
+----------------------------------------------
+Within 5 working days of receiving your offer letter:
+
+  [ ] Sign and return the offer letter via email to hrops@nexacore.in.
+  [ ] Complete the Pre-Joining Digital Form on the link provided by HR.
+      This form collects:
+        - Personal details (name, address, date of birth, PAN, Aadhaar)
+        - Bank account details (for salary credit)
+        - Emergency contact information
+        - Educational qualifications
+        - Previous employment history
+        - UAN (Universal Account Number for PF transfer, if applicable)
+  [ ] Arrange the following original documents for Day 1 submission:
+      (Full list in Section 6)
+  [ ] Confirm your joining date with HR if it needs to be adjusted.
+  [ ] Read the Welcome Packet (shared via email after offer acceptance).
+  [ ] Download the NexaCore People Portal app (iOS/Android) and register
+      using your personal email (before corporate email is active).
+
+1.2 What NexaCore Will Prepare for You
+----------------------------------------
+Before your first day, HR and IT will:
+  - Create your corporate email account.
+  - Configure your laptop and install standard software.
+  - Add you to the company directory.
+  - Assign you to your team's project channels in Slack.
+  - Schedule your first-day orientation and manager introduction meeting.
+  - Assign an Onboarding Buddy from your team.
+  - Prepare a welcome kit (NexaCore branded merchandise; available at the
+    HR desk on Day 1).
+
+================================================================================
+SECTION 2: DAY 1: ARRIVAL AND ADMINISTRATIVE SETUP
+================================================================================
+
+2.1 Arrival Protocol
+---------------------
+  - Report to the Reception Desk at your joining office location at 9:00 AM.
+  - Carry a government-issued photo ID for building entry.
+  - Inform security that you are a new joiner. They will direct you to HR.
+
+2.2 First Hour Activities
+--------------------------
+  9:00 AM – 9:30 AM: Reception and HR Welcome
+    - HR Operations Coordinator greets you.
+    - You receive your temporary access card.
+    - You are taken to the HR Bay.
+
+  9:30 AM – 10:30 AM: Documentation Submission
+    - Submit all original and photocopy documents to HR.
+    - HR verifies and acknowledges receipt.
+    - Sign the following:
+        * Employment Agreement / Appointment Letter (if not pre-signed)
+        * Non-Disclosure Agreement (NDA)
+        * Employee Handbook Acknowledgement Form
+        * IT Acceptable Use Policy (AUP)
+        * Conflict of Interest Declaration Form
+
+  10:30 AM – 11:00 AM: IT Equipment Collection
+    - Proceed to IT Help Desk (Floor 2, Building A).
+    - Collect laptop, peripherals, and accessories.
+    - Begin IT setup checklist (see IT_Setup_Guide.docx, Section 2).
+
+  11:00 AM – 12:00 PM: HR Orientation (Group Session)
+    - Overview of NexaCore, its structure, and culture.
+    - Policies summary (handbook, leave, travel, IT).
+    - Benefits and payroll overview.
+    - Q&A with HRBP.
+
+  12:00 PM – 1:00 PM: Lunch with Buddy
+    - Your Onboarding Buddy will take you for a team lunch.
+    - Informal introduction to team members.
+
+  1:00 PM – 2:00 PM: Manager Meeting
+    - Meet your reporting manager.
+    - Overview of team structure, current projects, and immediate priorities.
+    - Receive access to project documentation and handover (if applicable).
+
+  2:00 PM – 5:00 PM: Self-Paced IT Setup
+    - Complete the IT setup checklist.
+    - Set up email, Slack, Jira, Confluence.
+    - Complete the mandatory Day-1 Security Training.
+
+  5:00 PM – 5:30 PM: End-of-Day Check-in with Buddy
+    - Review what was completed.
+    - Make a list of pending items.
+    - Schedule Day-2 agenda.
+
+================================================================================
+SECTION 3: WEEK 1: ORIENTATION AND ACCESS SETUP
+================================================================================
+
+3.1 Monday to Wednesday Activities
+------------------------------------
+  - Complete all IT setup items (Section 2 of IT Setup Guide).
+  - Complete mandatory compliance trainings:
+      * Security Awareness Training (Day 1)
+      * POSH Awareness Training (by Day 3)
+      * Data Protection and Privacy Policy Training (by Day 5)
+      * Code of Conduct Training (by Day 5)
+    All training modules are at training.nexacore.in. Completion is tracked
+    in the LMS. Incomplete mandatory training by the end of Week 1 will be
+    flagged to your HRBP.
+
+3.2 Thursday and Friday Activities
+-------------------------------------
+  - Shadow a team meeting or project stand-up.
+  - Review all policies listed in this onboarding guide.
+  - Meet key stakeholders (list provided by manager).
+  - Review your 30-day goals (see Section 12).
+  - Set up payroll preferences and tax declarations in People Portal.
+  - Submit PF transfer form (if applicable; use UAN portal with company PF
+    account number provided by HR).
+
+3.3 End of Week 1 Check-In
+----------------------------
+  Friday of Week 1: 30-minute check-in with HRBP to:
+  - Confirm all documents have been submitted and verified.
+  - Confirm all accesses have been provisioned.
+  - Address any open questions.
+
+================================================================================
+SECTION 4: MONTH 1: IMMERSION AND INTEGRATION
+================================================================================
+
+4.1 Project Induction
+----------------------
+By the end of Week 2, your manager will:
+  - Formally assign you to a project (or client engagement).
+  - Introduce you to the project lead and client-side contacts (if applicable).
+  - Walk you through the project repository, architecture, and documentation.
+  - Assign a starter task or initiative to help you build familiarity.
+
+4.2 Department Orientation Sessions
+--------------------------------------
+HR schedules orientation sessions with key departments for all new joiners:
+  - Finance and Payroll: Understanding your payslip and reimbursement process.
+  - IT Security: Deep dive into data protection and device policies.
+  - Legal and Compliance: NDA, IP assignment, and client confidentiality.
+  - Learning and Development: NexaCore Academy and training resources.
+  These sessions are held in the second and third week of each month for
+  joiners of that month.
+
+4.3 Goal Setting
+-----------------
+By Day 15, you must collaborate with your manager to set 30-day goals in the
+HRMS. Goals must be:
+  - Specific and measurable
+  - Aligned to your team's OKRs
+  - Achievable within 30 days, with stretch elements
+
+The 30-day goal form is under HRMS > My Profile > Probation Goals.
+
+================================================================================
+SECTION 5: MONTH 2 AND 3: PROBATION PERIOD ACTIVITIES
+================================================================================
+
+5.1 30-Day Review
+------------------
+At Day 30 (±3 working days), your manager conducts the 30-Day Probation Review:
+  - Discussion of 30-day goal achievement.
+  - Feedback on performance and integration.
+  - Any areas of concern raised and documented.
+  - 60-day goals set.
+  The review is recorded in HRMS by the manager within 2 days.
+
+5.2 60-Day Review
+------------------
+At Day 60 (±3 working days), the 60-Day Review includes:
+  - Review of 60-day goal achievement.
+  - Discussion of career development aspirations.
+  - Any emerging concerns or accommodation needs flagged.
+  - 90-day goals set.
+
+5.3 90-Day Confirmation Review
+--------------------------------
+At Day 85–90, the manager submits the Confirmation Review Form in HRMS.
+The HRBP reviews the form and initiates the confirmation process.
+
+If all is satisfactory, the employee receives:
+  - A formal Confirmation Letter via email.
+  - Full access to Earned Leave balance.
+  - Eligibility for full travel reimbursement and company benefits.
+
+For Extended Probation scenarios, see the Employee Handbook (Section 3).
+
+================================================================================
+SECTION 6: DOCUMENTS REQUIRED FOR ONBOARDING
+================================================================================
+
+6.1 Mandatory Documents (Must be Submitted on Day 1)
+------------------------------------------------------
+The following must be submitted as originals and photocopies (or notarised
+copies where originals cannot be parted with):
+
+  Personal Identity:
+    [ ] PAN Card (original + photocopy) — MANDATORY for payroll; cannot
+        join payroll without PAN
+    [ ] Aadhaar Card (original + photocopy) — MANDATORY for identity verification
+    [ ] Passport (photocopy, if available) — MANDATORY for international travel
+        provisioning; must be submitted within 30 days if not on Day 1
+    [ ] Voter ID or Driving Licence (any one; additional identity proof)
+
+  Address Proof:
+    [ ] Aadhaar Card or Passport — double-use as address proof
+    [ ] Recent utility bill (within 3 months) if Aadhaar address is outdated
+
+  Education:
+    [ ] Class 10 (SSC) Marksheet and Certificate
+    [ ] Class 12 (HSC) Marksheet and Certificate
+    [ ] All undergraduate degree certificates and marksheets
+    [ ] Postgraduate degree certificate and marksheets (if applicable)
+    [ ] Professional certifications mentioned in resume (copies sufficient)
+
+  Previous Employment:
+    [ ] Experience letters / Relieving letters from all previous employers
+    [ ] Last 3 months' payslips from most recent employer
+    [ ] Form 16 from most recent employer (for TDS continuity)
+    [ ] Increment letters (if CTC verification is required)
+
+  Bank Details:
+    [ ] Cancelled cheque OR bank passbook front page showing account number,
+        IFSC, and name
+    [ ] Account must be in the employee's name only (joint accounts not
+        accepted for salary credit)
+
+  Other:
+    [ ] 2 passport-size photographs (coloured, white background)
+    [ ] PF Transfer Form (FORM 11 / FORM 13) — if transferring previous PF
+
+6.2 Documents Due Within 30 Days of Joining
+---------------------------------------------
+  [ ] Passport (if not submitted on Day 1)
+  [ ] Marriage certificate (if applicable; for dependent enrolment in health
+      insurance)
+  [ ] Birth certificates of dependents (children) — for health insurance
+  [ ] Disability certificate (if requesting accommodation under disability policy)
+
+6.3 Consequences of Missing Documents
+----------------------------------------
+  - Missing PAN Card: Employee is added to payroll with maximum TDS deduction
+    (30%) until PAN is provided. TDS is not refundable by NexaCore; claim
+    refund directly from Income Tax Department.
+  - Missing Experience Letter: Verification pending; probation confirmation may
+    be deferred pending background check completion.
+  - Missing Education Documents: Verification pending; offer may be rescinded
+    if verified qualification differs materially from declared qualification.
+
+6.4 Background Verification (BGV)
+-----------------------------------
+NexaCore engages a third-party Background Verification agency. The BGV process
+is initiated on Day 1 and typically completes within 30 working days.
+
+BGV covers:
+  - Identity verification (PAN, Aadhaar)
+  - Education verification (last degree)
+  - Employment verification (last 2 employers)
+  - Criminal record check
+  - Global database check (for Band 5 and above)
+  - Credit check (for Finance and Accounting roles)
+
+If a BGV discrepancy is found:
+  - HR raises it with the employee for explanation within 3 working days.
+  - If the discrepancy is material (falsified qualification, unreported
+    termination, criminal record relevant to the role), employment may be
+    terminated even during or after probation.
+  - Minor discrepancies (e.g., date difference, title mismatch) are
+    investigated and documented.
+
+================================================================================
+SECTION 7: ACCESS AND SYSTEMS OVERVIEW
+================================================================================
+
+7.1 Systems New Employees Access from Day 1
+---------------------------------------------
+  System                   URL                         Notes
+  Corporate Email          mail.nexacore.in             Activated before Day 1
+  People Portal (HRMS)     portal.nexacore.in           For leaves, payroll, goals
+  Finance Portal           finance.nexacore.in          For claims, advances
+  IT Service Desk          servicedesk.nexacore.in      For IT requests
+  Training (LMS)           training.nexacore.in         For mandatory training
+  Confluence (Wiki)        wiki.nexacore.in             Company knowledge base
+  Jira                     jira.nexacore.in             Project tracking
+  Slack                    nexacore.slack.com           Internal comms
+
+7.2 Systems Provisioned Within First Week
+-------------------------------------------
+  System                   Provisioned By      SLA
+  VPN                      IT (on request)     1 working day
+  GitHub Enterprise        IT (on request)     1 working day
+  Cloud environments        IT + Project Lead   3 working days
+  Client systems           IT + Client team    5 working days or as agreed
+  Specialised tools         IT (on request)     3 working days
+
+7.3 Access Request Process
+----------------------------
+All access requests are submitted via the IT Service Desk portal. The process:
+  Step 1: Employee or manager submits access request ticket.
+  Step 2: Relevant approver (manager, IT Head, or CISO depending on system)
+          approves.
+  Step 3: IT provisions access and notifies employee by email.
+  Step 4: Employee must verify access within 24 hours and report issues.
+
+===============================================================================
+SECTION 8: ONBOARDING FOR REMOTE EMPLOYEES
+================================================================================
+
+8.1 Remote Onboarding Differences
+------------------------------------
+If you are joining as a fully remote employee or working from a location
+outside the headquarters city, the following apply:
+
+  - Device shipping: Your laptop and peripherals are shipped to your home
+    address 3–5 working days before Day 1. You must be available to receive
+    the delivery. If you miss the delivery, contact IT immediately.
+  - Documentation: Submit scanned copies of all documents via the secure HR
+    document upload portal (link shared in welcome email). Original documents
+    must be couriered to the HR Office (address in the welcome email) within
+    10 days of joining.
+  - Day-1 orientation: Conducted via Microsoft Teams. IT sends a Teams meeting
+    invite to your personal email on the evening before Day 1.
+  - Buddy: Assigned from the same functional team; regular video check-ins.
+  - IT Support: All remote support via IT Service Desk portal or phone.
+
+8.2 Home Office Setup Allowance
+---------------------------------
+Remote employees hired with a "Remote" designation are eligible for a one-time
+Home Office Setup Allowance of INR 10,000 to purchase:
+  - Desk, chair, lamp, or other ergonomic furniture
+  - Internet equipment upgrades
+This allowance is processed as a reimbursement through the Finance Portal after
+submission of receipts. It is available once per employee and is taxable as a
+perquisite.
+
+================================================================================
+SECTION 9: RELOCATION ASSISTANCE
+================================================================================
+
+If you are relocating to a new city for this role, the following assistance
+is available (subject to the relocation clause in your offer letter):
+
+9.1 NexaCore-Sponsored Relocation
+------------------------------------
+  - Packing and moving: Covered by approved movers. Contact admin@nexacore.in
+    to engage the empaneled moving vendor.
+  - Temporary accommodation: Up to 14 days at a company-empaneled hotel or
+    serviced apartment (band limits apply; see Reimbursement_SOP.docx, Section 2.2).
+  - City orientation: HR will connect you with a local employee ambassador
+    who can help with housing, transport, and city logistics.
+
+9.2 Relocation Bonus (if applicable)
+--------------------------------------
+Some offer letters include a Relocation Bonus (typically INR 25,000–75,000
+depending on band and distance). This is:
+  - Paid in the first month's salary.
+  - Taxable as salary income.
+  - Subject to a clawback: If the employee resigns within 12 months of joining,
+    100% of the relocation bonus must be returned.
+  - If the employee is asked to leave by NexaCore (other than for cause),
+    no clawback applies.
+
+================================================================================
+SECTION 10: BUDDY PROGRAMME
+================================================================================
+
+10.1 About the Buddy Programme
+--------------------------------
+Each new joiner is assigned an Onboarding Buddy — a peer-level colleague
+from the same or an adjacent team who has been with NexaCore for at least
+12 months. The Buddy is not the same as the reporting manager.
+
+10.2 Buddy Responsibilities
+-----------------------------
+  - Meet the new joiner on Day 1 (lunch and end-of-day check-in).
+  - Be available for informal questions throughout the first 30 days.
+  - Help the new joiner navigate office culture, systems, and norms.
+  - Introduce the new joiner to the broader team and cross-functional contacts.
+  - Provide a candid, friendly sounding board — not a formal evaluator.
+
+10.3 New Joiner Responsibilities
+----------------------------------
+  - Actively reach out to the Buddy rather than waiting.
+  - Come prepared with questions to each check-in.
+  - Provide feedback on the Buddy experience via the HRMS survey at Day 30.
+
+10.4 Duration
+--------------
+The Buddy relationship is formally active for 30 days but can continue
+informally as long as both parties find it mutually beneficial.
+
+================================================================================
+SECTION 11: TRAINING AND LEARNING PATH
+================================================================================
+
+11.1 Mandatory Trainings (Week 1)
+-----------------------------------
+  Course Name                           Due Date    Duration    Location
+  Security Awareness                    Day 1       30 min      training.nexacore.in
+  POSH Awareness                        Day 3       45 min      training.nexacore.in
+  Data Privacy and Protection           Day 5       30 min      training.nexacore.in
+  Code of Conduct                       Day 5       20 min      training.nexacore.in
+
+Failure to complete mandatory trainings within the stated timeline:
+  - Week 1 reminder: Automated system reminder.
+  - Week 2: HRBP follows up with manager.
+  - Week 3: Escalated to HR Head; noted in probation evaluation.
+
+11.2 Role-Specific Trainings (Month 1)
+----------------------------------------
+Based on your role, your manager will assign additional trainings:
+  - Technical onboarding tracks (cloud, DevOps, data engineering, etc.)
+  - Client engagement and communication training (for consultant roles)
+  - Project management tools training (for PM roles)
+
+11.3 NexaCore Academy
+-----------------------
+The internal Learning Management System (LMS) hosts:
+  - 300+ courses on technology, business, soft skills, and leadership.
+  - Certification preparation courses (AWS, GCP, Azure, PMP, CISSP, etc.)
+  - Bite-sized learning modules (5–15 minutes).
+  - Live virtual instructor-led sessions (monthly schedule published on LMS).
+
+Each employee has an annual L&D budget of INR 25,000 for external courses
+and certifications. Submit reimbursement claims as per Reimbursement_SOP.docx.
+
+================================================================================
+SECTION 12: 30-60-90 DAY GOALS FRAMEWORK
+================================================================================
+
+12.1 Purpose
+-------------
+The 30-60-90 framework helps new employees structure their learning and
+contribution arc during probation. Goals are collaborative — set by the
+employee and manager together, with HRBP visibility.
+
+12.2 30-Day Goals (Days 1–30)
+-------------------------------
+Focus: Learn and Absorb
+Sample objectives:
+  - Complete all mandatory compliance trainings.
+  - Understand the team's current project portfolio, architecture, and toolchain.
+  - Complete at least 1 starter task or code review/document review.
+  - Meet all key stakeholders (internal and client-facing) in your area.
+  - Identify 3 questions or improvement ideas about your domain.
+
+12.3 60-Day Goals (Days 31–60)
+--------------------------------
+Focus: Contribute and Collaborate
+Sample objectives:
+  - Complete and deliver your first independently owned task/module.
+  - Participate actively in at least 2 sprint cycles or project reviews.
+  - Receive mid-way feedback from manager and address any gaps identified.
+  - Establish a working relationship with at least 2 cross-functional
+    colleagues (e.g., QA, PM, client contact).
+  - Begin contributing to Confluence documentation for your project.
+
+12.4 90-Day Goals (Days 61–90)
+--------------------------------
+Focus: Own and Grow
+Sample objectives:
+  - Independently manage a module, component, or client interaction.
+  - Demonstrate understanding of NexaCore's delivery standards and quality bar.
+  - Prepare and present a brief "onboarding insights" mini-deck to your manager
+    (what you've learned, what surprised you, ideas you have).
+  - Set your first-year performance goals in HRMS (to be ready for formal
+    review post-confirmation).
+  - Begin leveraging L&D budget for a relevant certification.
+
+================================================================================
+SECTION 13: CONFIRMATION AND POST-PROBATION
+================================================================================
+
+13.1 Confirmation Process
+--------------------------
+See Employee Handbook, Section 3.3. In summary:
+  - Manager submits Confirmation Review Form in HRMS by Day 85–90.
+  - HRBP reviews and approves.
+  - Confirmation Letter is issued.
+  - Employee transitions to full permanent status with all associated benefits.
+
+13.2 Post-Confirmation Changes
+--------------------------------
+On confirmation:
+  - Earned Leave balance becomes available for use.
+  - Full travel reimbursement entitlements activate.
+  - Eligibility for WFH days (up to 2 per week; subject to manager approval).
+  - Corporate credit card eligibility (if Band 5+, auto-issued; Band 3–4,
+    on request if travel frequency qualifies).
+  - L&D budget fully activated.
+  - Health insurance updated from provisional to confirmed employee.
+  - PF contributions regularised (were provisioned from Day 1 but confirmation
+    triggers formal enrolment letter).
+
+13.3 First Annual Performance Review
+--------------------------------------
+For employees who join between January and September, their first performance
+review is typically at the next Annual Review cycle (March). For employees
+who join in October–December, the first formal review may be deferred to the
+following March, with a mid-year check-in in September serving as the first
+evaluation.
+
+================================================================================
+SECTION 14: FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q1: What documents are required during onboarding?
+A: Mandatory Day-1 documents include: PAN Card, Aadhaar Card, Class 10 and 12
+   certificates, undergraduate degree, all previous employer experience/
+   relieving letters, last 3 months' payslips, cancelled cheque, and 2 photos.
+   Passport is required within 30 days (mandatory for international travel
+   provisioning). Full list in Section 6.
+
+Q2: I don't have my experience letter from a previous employer. What should I do?
+A: Notify HR on Day 1. You may submit a self-declaration letter explaining the
+   reason (e.g., employer shut down, document lost). HR will assess on a case-
+   by-case basis. Provisional joining may be allowed, but background verification
+   cannot be completed without it, which may delay confirmation.
+
+Q3: When will my salary account be activated?
+A: Bank account details submitted in the Pre-Joining Form are processed within
+   the first week. If you join before the 20th of the month, you may receive
+   a partial month's salary on the last working day. If after the 20th, you
+   will be paid in the following month's cycle for the combined period.
+
+Q4: Can I take leave in my first week?
+A: You can take Sick Leave or Casual Leave (prorated balance available from
+   Day 1). Earned Leave does not accrue until Month 2 and cannot be taken
+   until confirmation. Taking leave in Week 1 without a strong reason is
+   generally discouraged as it impacts the onboarding schedule.
+
+Q5: What happens during probation if I perform poorly?
+A: At the 30-day or 60-day review, your manager may flag performance concerns.
+   A documented improvement plan is discussed. If performance does not improve
+   by the 90-day review, probation may be extended (up to 2 times; maximum
+   180 days total) or employment may be separated. Refer to Employee Handbook,
+   Section 3.3.
+
+Q6: I need access to a system that wasn't provisioned. What should I do?
+A: Submit an access request via the IT Service Desk (servicedesk.nexacore.in).
+   Your manager may need to approve it. If the system requires elevated
+   privileges (e.g., production database, cloud admin), additional approvals
+   from IT Head or CISO may be needed.
+
+Q7: My Buddy is not responsive. What should I do?
+A: Contact your HRBP directly. The HRBP will either re-engage the Buddy or
+   assign you a new one. Do not let the programme lapse — the Buddy is an
+   important resource during your first 30 days.
+
+Q8: I relocated for this job. How do I claim the relocation allowance?
+A: Submit receipts for packing, moving, and temporary accommodation through
+   the Finance Portal under Relocation Expense category. Alternatively,
+   contact admin@nexacore.in to use empaneled vendors who are billed directly.
+   The relocation bonus (if applicable per your offer letter) is auto-credited
+   in Month 1 salary. See Section 9 for full details.
+
+Q9: I missed the POSH training deadline. What happens?
+A: POSH training is mandatory. Missing it triggers an automated reminder,
+   then HRBP follow-up. Complete it immediately. It cannot be waived.
+   Continued non-completion is noted in your probation evaluation.
+
+Q10: How do I know who my HRBP is?
+A: Your HRBP's name and contact details are included in the welcome email from
+   HR. They are also listed in the company directory under your department.
+   You can also find your HRBP in the People Portal under My Team > HR Contact.
+
+================================================================================
+END OF ONBOARDING GUIDE v6.1
+Document Owner: VP – Human Resources
+Last Reviewed: December 2024 | Next Review Due: December 2025
+For queries: onboarding@nexacore.in | HR Helpdesk: Ext. 4000
+================================================================================

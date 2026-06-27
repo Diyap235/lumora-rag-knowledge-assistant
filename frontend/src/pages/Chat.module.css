@@ -1,0 +1,273 @@
+.page {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+}
+
+/* right side — thread + input */
+.chatArea {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  background: var(--bg);
+}
+
+/* subtle ambient aurora */
+.aurora1 {
+  position: absolute;
+  width: 480px;
+  height: 480px;
+  border-radius: 50%;
+  background: radial-gradient(circle at center, rgba(63, 185, 80, 0.04) 0%, transparent 70%);
+  filter: blur(64px);
+  top: -120px;
+  left: -80px;
+  animation: aurora-drift-1 24s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.aurora2 {
+  position: absolute;
+  width: 360px;
+  height: 360px;
+  border-radius: 50%;
+  background: radial-gradient(circle at center, rgba(63, 185, 80, 0.03) 0%, transparent 70%);
+  filter: blur(72px);
+  bottom: 60px;
+  right: -60px;
+  animation: aurora-drift-2 30s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* scrollable messages */
+.thread {
+  flex: 1;
+  overflow-y: auto;
+  padding: 28px 32px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+/* empty state */
+.emptyState {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  height: 100%;
+  padding: 80px 24px;
+  text-align: center;
+}
+
+.emptyIcon {
+  color: var(--border);
+}
+
+.emptyText {
+  font-family: var(--font-heading);
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0;
+}
+
+.emptyHint {
+  font-size: 13px;
+  color: var(--muted);
+  margin: 0;
+}
+
+/* user bubble */
+.userRow {
+  display: flex;
+  justify-content: flex-end;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.userBubbleWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  max-width: 65%;
+}
+
+.userBubble {
+  padding: 11px 16px;
+  border-radius: 16px 16px 4px 16px;
+  background: var(--primary);
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  width: 100%;
+}
+
+.userTimestamp {
+  font-size: 11px;
+  color: var(--muted);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.userRow:hover .userTimestamp {
+  opacity: 0.55;
+}
+
+/* welcome message */
+.welcomeRow {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.welcomeMsg {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.6;
+  padding: 4px 0;
+}
+
+/* thinking indicator */
+.thinking {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.thinkingAvatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  flex-shrink: 0;
+}
+
+.thinkingText {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--muted);
+  padding: 7px 0;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.spin {
+  animation: spin 0.8s linear infinite;
+  flex-shrink: 0;
+}
+
+/* input area */
+.inputArea {
+  border-top: 1px solid var(--glass-border);
+  background: var(--glass-bg);
+  backdrop-filter: blur(14px);
+  padding: 14px 24px 10px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  z-index: 1;
+}
+
+.inputBox {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 10px 12px 10px 18px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.inputBox:focus-within {
+  border-color: rgba(63, 185, 80, 0.4);
+  box-shadow: var(--glow);
+}
+
+.textarea {
+  flex: 1;
+  font-size: 14px;
+  color: var(--text);
+  resize: none;
+  line-height: 1.5;
+  min-height: 22px;
+  max-height: 140px;
+  background: none;
+  border: none;
+  outline: none;
+  font-family: var(--font-body);
+}
+
+.textarea::placeholder {
+  color: var(--muted);
+  opacity: 0.6;
+}
+
+.sendBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 9px;
+  background: var(--primary);
+  color: #fff;
+  flex-shrink: 0;
+  border: none;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+}
+
+.sendBtn:hover:not(:disabled) {
+  background: var(--primary-dark);
+  transform: scale(1.05);
+}
+
+.sendBtn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.footer {
+  text-align: center;
+  font-size: 11px;
+  color: var(--muted);
+  opacity: 0.45;
+}
+
+.footer a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.footer a:hover {
+  opacity: 0.8;
+}

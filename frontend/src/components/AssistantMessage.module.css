@@ -1,0 +1,250 @@
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px 14px 14px 14px;
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  flex: 1;
+  max-width: calc(100% - 40px);
+}
+
+/* fallback card — orange left border signals "no match" to the user */
+.cardFallback {
+  border-left: 3px solid #d97706;
+  background: rgba(217, 119, 6, 0.04);
+}
+
+.fallbackHeader {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #d97706;
+  margin-bottom: 10px;
+}
+
+.fallbackIcon {
+  flex-shrink: 0;
+  color: #d97706;
+}
+
+/* answer text */
+.answer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.para {
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--text);
+  margin: 0;
+}
+
+/* fallback answers use muted text */
+.cardFallback .para {
+  color: var(--muted);
+}
+
+.list {
+  margin: 0;
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  list-style: disc;
+}
+
+.list li {
+  font-size: 14px;
+  line-height: 1.75;
+  color: var(--text);
+}
+
+.divider {
+  height: 1px;
+  background: var(--border);
+  margin: 12px 0;
+  opacity: 0.6;
+}
+
+/* sources */
+.sourcesSection {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.sectionLabel {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  opacity: 0.7;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.sourceChipWrap {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.sourceChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 10px 3px 8px;
+  border-radius: 100px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--muted);
+  font-size: 11px;
+  font-family: var(--font-body);
+  cursor: pointer;
+  opacity: 0.65;
+  transition: opacity 0.15s, border-color 0.15s;
+}
+
+.sourceChip:hover {
+  opacity: 1;
+  border-color: var(--color-border-light);
+}
+
+.sourceExcerpt {
+  padding: 10px 12px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  max-width: 400px;
+}
+
+.excerptLabel {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0;
+}
+
+.excerptText {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* actions + timestamp row */
+.actionsRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.actionBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-size: 12px;
+  font-family: var(--font-body);
+  cursor: pointer;
+  transition: color 0.15s, background 0.15s;
+}
+
+.actionBtn:hover {
+  color: var(--text);
+  background: var(--card);
+}
+
+.actionActive {
+  color: var(--primary);
+}
+
+/* thumbs down active — red to signal negative feedback */
+.actionActiveDown {
+  color: #f85149;
+}
+
+/* timestamp — hidden by default, shown on card hover */
+.timestamp {
+  font-size: 11px;
+  color: var(--muted);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.wrapper:hover .timestamp {
+  opacity: 0.6;
+}
+
+/* version label inside source chip e.g. "· v2" */
+.chipVersion {
+  font-size: 10px;
+  color: var(--muted);
+  opacity: 0.6;
+  flex-shrink: 0;
+}
+
+/* thank-you message after feedback vote */
+.thankYou {
+  font-size: 11px;
+  color: var(--primary);
+  padding: 0 6px;
+  animation: fadeInOut 2s ease forwards;
+}
+
+@keyframes fadeInOut {
+  0%   { opacity: 0; }
+  15%  { opacity: 1; }
+  75%  { opacity: 1; }
+  100% { opacity: 0; }
+}

@@ -1,0 +1,631 @@
+================================================================================
+NEXACORE TECHNOLOGIES PVT. LTD.
+IT SETUP AND EQUIPMENT GUIDE
+Version 5.0 | Effective Date: January 1, 2025
+Confidential – For Internal Use Only
+Document Reference: IT-SOP-001
+================================================================================
+
+INTRODUCTION
+
+This guide provides NexaCore employees with comprehensive instructions for
+setting up their IT environment, understanding device policies, obtaining
+access to systems and applications, and following security best practices.
+It also outlines what to do in case of equipment issues, loss, theft, or
+damage, and the process for returning equipment on exit.
+
+This guide is applicable to all permanent employees, fixed-term contract
+employees, and consultants with company-managed devices. Interns receive
+a separate Intern IT Guide.
+
+Cross-references:
+  - Employee Handbook (Employee_Handbook.docx): Section 11 (IT Overview)
+  - Onboarding Guide (Onboarding_Guide.docx): Section 3 (IT Setup Steps)
+  - Reimbursement SOP (Reimbursement_SOP.docx): Section 6.2 (Internet claim)
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1.  Device Allocation Policy
+2.  Day-One IT Setup Checklist
+3.  Network Access and VPN
+4.  Email, Calendar, and Collaboration Tools
+5.  Software and Application Access
+6.  Remote Work IT Setup
+7.  Data Security and Acceptable Use
+8.  Equipment Issues, Repair, and Replacement
+9.  Lost, Stolen, or Damaged Devices
+10. IT Support – Channels and SLAs
+11. Offboarding and Device Return
+12. Frequently Asked Questions
+
+================================================================================
+SECTION 1: DEVICE ALLOCATION POLICY
+================================================================================
+
+1.1 Standard Device Allocation
+--------------------------------
+Devices are allocated by band and role:
+
+  Band 1–2 (Analyst/Associate):
+    - Standard laptop (Windows 11; 8GB RAM, 256GB SSD)
+    - Wired keyboard and mouse (at office workstation)
+    - Headset (shared pool; request from IT)
+
+  Band 3–4 (Consultant/Lead):
+    - Performance laptop (Windows 11 or macOS; 16GB RAM, 512GB SSD)
+    - Wireless keyboard and mouse
+    - Headset (individual allocation on joining)
+
+  Band 5–6 (Manager/Senior Manager):
+    - Premium laptop (macOS preferred; 16GB RAM, 1TB SSD)
+    - External monitor (24-inch; at primary workstation)
+    - Wireless peripherals
+
+  Band 7–8 (Director/VP):
+    - Premium laptop (macOS; 32GB RAM, 1TB SSD)
+    - External monitor (27-inch)
+    - Docking station
+
+Developers and engineers at B3+ receive developer-grade machines regardless of
+band, as approved by the Engineering Head.
+
+Data Science and AI practitioners may request GPU-enabled machines. Such
+requests require Engineering Head and IT Head co-approval.
+
+1.2 Additional Device Requests
+--------------------------------
+An employee may request additional or replacement peripherals:
+  - Submit a Hardware Request via the IT Service Desk (servicedesk.nexacore.in).
+  - Requests above INR 5,000 require manager and IT Head approval.
+  - Budget approval from Finance is required for items above INR 15,000.
+
+All devices remain the property of NexaCore and must be returned on exit.
+
+1.3 BYOD (Bring Your Own Device)
+----------------------------------
+NexaCore does not have a formal BYOD policy for primary work devices.
+Personal devices may be used for:
+  - Reading emails (via web browser with MFA)
+  - Attending video calls (with company-approved apps installed)
+
+Personal devices must NOT be used for:
+  - Accessing client data or repositories
+  - VPN connections for code or data work
+  - Storing company files locally
+
+If a personal device is used in a way that compromises data security, the
+employee bears full responsibility and may face disciplinary action.
+
+================================================================================
+SECTION 2: DAY-ONE IT SETUP CHECKLIST
+================================================================================
+
+The following must be completed on the employee's first day with assistance
+from the IT onboarding specialist (available at the IT Help Desk, Floor 2,
+Building A, or via servicedesk@nexacore.in):
+
+2.1 Identity and Access
+------------------------
+  [ ] Collect company laptop from IT Help Desk (bring offer letter or
+      employee ID card issued by HR)
+  [ ] Activate corporate email account (format: firstname.lastname@nexacore.in)
+  [ ] Set up Microsoft Authenticator (MFA) on personal mobile phone
+  [ ] Log into Azure Active Directory (AAD) with temporary password
+  [ ] Change password immediately (must meet complexity requirements)
+  [ ] Log into NexaCore People Portal (portal.nexacore.in)
+  [ ] Log into NexaCore Finance Portal (finance.nexacore.in)
+  [ ] Install and configure Slack (workspace: nexacore.slack.com)
+  [ ] Install Microsoft Teams (for client communications and external calls)
+  [ ] Verify that you appear in the company directory
+
+2.2 Security Setup
+-------------------
+  [ ] Enroll device in Microsoft Intune (Mobile Device Management)
+  [ ] Enable BitLocker / FileVault disk encryption (IT pre-configures; verify)
+  [ ] Install CrowdStrike Falcon (EDR) — push-installed via Intune; verify
+      it is active in the system tray
+  [ ] Complete the Day-1 Security Awareness Training (30 minutes; mandatory;
+      available at training.nexacore.in)
+  [ ] Read and acknowledge the Acceptable Use Policy (AUP)
+
+2.3 Communication and Collaboration
+-------------------------------------
+  [ ] Set up email signature (template in Appendix A of this guide)
+  [ ] Add your calendar to the team's shared calendar
+  [ ] Join your project and team Slack channels (list provided by manager)
+  [ ] Set up Zoom (if applicable to your role; licence request via IT portal)
+  [ ] Access Confluence (wiki) at wiki.nexacore.in using AAD credentials
+  [ ] Access Jira at jira.nexacore.in using AAD credentials
+
+2.4 Development Tools (for Engineering Roles)
+-----------------------------------------------
+  [ ] Request GitHub Enterprise access via IT portal
+  [ ] Install approved IDE (VSCode, IntelliJ, PyCharm — all pre-approved)
+  [ ] Configure Git with company email
+  [ ] Request access to relevant AWS/GCP/Azure project environments via the
+      Cloud Access Request Form on the IT portal
+  [ ] Install Docker Desktop (pre-approved)
+  [ ] Request database access (project-specific; manager raises the request)
+
+================================================================================
+SECTION 3: NETWORK ACCESS AND VPN
+================================================================================
+
+3.1 Office Network
+-------------------
+  - Corporate Wi-Fi: Network name NEXA-CORP (WPA3 Enterprise)
+  - Credentials: AAD username and password
+  - Guest Wi-Fi: Network name NEXA-GUEST (for personal devices; no access to
+    internal resources)
+  - Wired LAN ports are available at every workstation.
+
+3.2 VPN Access
+---------------
+VPN is required for accessing internal NexaCore systems (code repositories,
+internal databases, HR/Finance portals) when working outside the office.
+
+How to Obtain VPN Access:
+  Step 1: Submit a VPN Access Request via the IT Service Desk
+          (servicedesk.nexacore.in > New Request > Access Management > VPN).
+  Step 2: Provide:
+    - Employee ID and department
+    - Business justification (e.g., "remote work", "client site visit")
+    - Manager's email for approval notification
+  Step 3: Manager approves the request via email or the IT portal.
+  Step 4: IT provisions VPN access within 1 working day of manager approval.
+  Step 5: Employee receives an email with Cisco AnyConnect installation
+          instructions and VPN server details.
+  Step 6: Install Cisco AnyConnect on the company laptop.
+  Step 7: Connect using AAD credentials. MFA will be prompted on first login.
+
+VPN Client: Cisco AnyConnect Secure Mobility Client (v4.10 or later)
+VPN Server: vpn.nexacore.in
+Authentication: AAD username + password + Microsoft Authenticator push
+
+3.3 VPN Usage Rules
+--------------------
+  - VPN must be connected whenever accessing internal systems remotely.
+  - Do not leave VPN connected while accessing personal accounts or streaming
+    services (split tunnelling is not enabled; all traffic goes through VPN).
+  - VPN sessions time out after 4 hours of inactivity.
+  - Sharing VPN credentials with another person is prohibited and is
+    classified as a security violation.
+
+3.4 VPN Troubleshooting
+------------------------
+  Common issues and solutions:
+  - "Authentication failed": Check MFA app; re-enter password.
+  - "Unable to connect to server": Confirm vpn.nexacore.in in server list;
+    check internet connection.
+  - "Certificate error": Contact IT — certificate may need renewal on device.
+  - Prolonged connectivity issues: Contact IT helpdesk (Ext. 6000 or
+    ithelp@nexacore.in).
+
+3.5 VPN Access for Contractors
+--------------------------------
+Third-party contractors are not granted standard VPN access. If a contractor
+requires access to internal systems, the sponsoring NexaCore employee
+(minimum Band 5) must raise a Contractor Access Request, which requires
+CISO approval. Access is limited to specific systems and time-bound.
+
+================================================================================
+SECTION 4: EMAIL, CALENDAR, AND COLLABORATION TOOLS
+================================================================================
+
+4.1 Email
+----------
+Platform: Microsoft Exchange / Outlook 365
+Format: firstname.lastname@nexacore.in
+Storage Limit: 50 GB per mailbox
+Retention: Emails retained for 7 years per regulatory requirements
+
+Rules:
+  - Do not use company email for personal communications.
+  - Do not forward company emails to personal email accounts.
+  - Attachments over 25 MB must be shared via SharePoint or OneDrive
+    (do not use personal cloud storage like Google Drive or Dropbox).
+
+4.2 Calendar
+------------
+  - All meetings must be scheduled via Outlook Calendar.
+  - Meeting invites must include an agenda for meetings over 30 minutes.
+  - Recurring meeting series should be reviewed quarterly and cancelled if
+    no longer needed.
+
+4.3 Slack
+----------
+NexaCore's primary internal communication tool.
+Workspace: nexacore.slack.com
+Key channels:
+  #general — Company-wide announcements
+  #tech-news — Industry updates
+  #it-support — IT quick queries (not a ticket system)
+  #hr-updates — HR policy updates
+  Project channels follow the format: #proj-[client]-[project-name]
+
+Slack is not for confidential client data, source code, or credentials.
+Any sensitive information must use encrypted email or the secure document
+management system.
+
+4.4 Microsoft Teams
+--------------------
+Used primarily for external client communications and formal internal calls.
+Teams is integrated with Outlook Calendar. Recording of meetings requires
+consent of all participants. Recordings are stored in SharePoint and must
+be deleted after 90 days unless archived for compliance.
+
+4.5 Confluence (Wiki)
+-----------------------
+URL: wiki.nexacore.in
+Used for: Project documentation, runbooks, HR/IT policy repository, team
+knowledge bases.
+All project teams must maintain a Confluence space. IT policies, SOPs, and
+handbooks (including this document) are hosted here.
+
+================================================================================
+SECTION 5: SOFTWARE AND APPLICATION ACCESS
+================================================================================
+
+5.1 Approved Software List
+---------------------------
+Pre-approved software (no request required; available via Company Portal):
+  - Microsoft Office 365 (Word, Excel, PowerPoint, Outlook, Teams)
+  - Visual Studio Code, IntelliJ IDEA, PyCharm, Eclipse
+  - Docker Desktop, Postman, Insomnia
+  - Git, GitHub Desktop, Sourcetree
+  - Figma (for design roles)
+  - Slack, Zoom
+  - CrowdStrike Falcon (security; auto-installed)
+  - Cisco AnyConnect (VPN)
+
+5.2 Requesting Additional Software
+------------------------------------
+If the required software is not on the approved list:
+  Step 1: Submit a Software Request via the IT Service Desk.
+  Step 2: Provide: Software name, version, vendor URL, business justification.
+  Step 3: IT Security reviews the request (SLA: 3 working days).
+  Step 4: If approved, IT packages and deploys via Intune.
+  Step 5: If rejected, IT provides the reason and may suggest alternatives.
+
+Employees must never install software directly from the internet without IT
+approval. Violation is a security policy breach.
+
+5.3 Prohibited Software
+-------------------------
+The following are explicitly prohibited on company devices:
+  - BitTorrent or P2P file sharing clients
+  - Personal cloud backup tools (Dropbox, Google Drive, iCloud sync)
+  - Cracked or unlicensed software
+  - Cryptocurrency mining tools
+  - Remote desktop tools not approved by IT (e.g., TeamViewer personal)
+  - Hacking or penetration testing tools (unless the employee is in the
+    Security team and has an approved toolkit request)
+
+5.4 Licence Management
+------------------------
+All software licences are centrally managed by IT. Employees must not
+transfer software licences between devices or to personal computers. When
+an employee exits, their licences are reclaimed and reassigned.
+
+================================================================================
+SECTION 6: REMOTE WORK IT SETUP
+================================================================================
+
+6.1 Requirements for Remote Work
+----------------------------------
+To work remotely in compliance with NexaCore policy, employees must have:
+  - NexaCore-issued laptop (no personal device for primary work)
+  - Active VPN connection for internal system access
+  - Stable internet connection (minimum 20 Mbps download recommended)
+  - Quiet, professional environment for client-facing calls
+  - MFA-enabled authenticator app on mobile
+
+6.2 Home Network Security
+--------------------------
+Employees are responsible for securing their home network:
+  - Use WPA2 or WPA3 Wi-Fi encryption.
+  - Set a strong, unique Wi-Fi password (do not use default router password).
+  - Do not work from public Wi-Fi (coffee shops, airports) without VPN.
+    If public Wi-Fi is unavoidable, ensure VPN is connected before opening
+    any company application.
+  - Do not connect the company laptop to an unsecured or guest network.
+
+6.3 Screen Privacy
+-------------------
+  - Use a privacy screen filter on your laptop in public places.
+  - Lock your screen (Windows: Win+L; Mac: Ctrl+Cmd+Q) when stepping away
+    from the device, even at home.
+  - Do not share screens in video calls that show sensitive data unless
+    necessary and all participants are authorised to see the information.
+
+================================================================================
+SECTION 7: DATA SECURITY AND ACCEPTABLE USE
+================================================================================
+
+7.1 Data Classification
+------------------------
+NexaCore classifies data at four levels:
+  Public: Freely shareable (press releases, published content).
+  Internal: For NexaCore employees only (policies, internal memos).
+  Confidential: For specified teams only (client data, source code, financial).
+  Restricted: Requires explicit access control (credentials, PII, legal docs).
+
+Employees must handle data according to its classification. Misclassification
+or inappropriate sharing is a security policy violation.
+
+7.2 Password Policy
+--------------------
+  Minimum length: 12 characters
+  Requirements: At least 1 uppercase, 1 lowercase, 1 number, 1 special character
+  Expiry: Every 90 days for Restricted systems; 180 days for other systems
+  Prohibition: Do not reuse the last 10 passwords
+  Prohibition: Do not share passwords with anyone, including IT staff
+  (IT will never ask for your password)
+
+Password manager: NexaCore provides 1Password licences to all employees.
+Use it to manage all work credentials.
+
+7.3 Phishing and Social Engineering
+-------------------------------------
+  - Be suspicious of unsolicited emails asking you to click a link or
+    provide credentials.
+  - NexaCore IT will never ask for your password via email or phone.
+  - Report suspected phishing emails: Forward to phishing@nexacore.in and
+    then delete. Do not click any links.
+  - Quarterly phishing simulation exercises are conducted by IT Security.
+    Failing 3 or more simulations in a row requires mandatory retraining.
+
+7.4 Acceptable Use
+-------------------
+Company devices may be used for:
+  - Work-related tasks, communication, and development.
+  - Limited personal browsing during breaks (not on client project hours).
+
+Company devices must NOT be used for:
+  - Accessing adult, gambling, or illegal content.
+  - Personal commercial activities.
+  - Mining cryptocurrency.
+  - Installing personal software without approval.
+  - Connecting to unsecured external devices (USB drives from outside vendors
+    are prohibited; internal USB usage must use IT-scanned drives).
+
+7.5 USB and External Drives
+-----------------------------
+  - Personal USB drives are not permitted on company devices.
+  - If data transfer is required, use SharePoint, OneDrive (company account),
+    or the secure file transfer portal.
+  - IT-provided encrypted USB drives are available on request for approved
+    data transfer needs.
+
+================================================================================
+SECTION 8: EQUIPMENT ISSUES, REPAIR, AND REPLACEMENT
+================================================================================
+
+8.1 Reporting a Hardware Issue
+--------------------------------
+  Step 1: Log an incident at servicedesk.nexacore.in > Hardware Issue.
+  Step 2: Describe the issue in detail (error messages, symptoms, when started).
+  Step 3: An IT technician will respond within 4 working hours (P2) or
+          1 working hour (P1 — complete device failure).
+  Step 4: If the issue is resolved remotely, no further action needed.
+  Step 5: If the device needs physical inspection, IT will schedule a
+          desk-side visit or request the employee to bring it to IT Help Desk.
+
+8.2 Repair vs. Replacement
+----------------------------
+  - Devices under 2 years old: IT will repair or issue a loaner while the
+    device is in service.
+  - Devices over 2 years old: IT evaluates repair vs. replacement based on
+    cost and condition. The IT Head makes the final decision.
+  - Warranty claims are handled by IT; employees should not contact
+    vendors directly.
+
+8.3 Loaner Devices
+-------------------
+  - Loaner laptops are available from IT for periods of 1–14 days while
+    your primary device is under repair.
+  - Loaner devices have standard configuration and may not have all your
+    development tools. Ensure your code is synced to the cloud/GitHub
+    before submitting your device for repair.
+  - Loaners are tracked. Failure to return a loaner within the agreed period
+    results in escalation to the employee's manager.
+
+================================================================================
+SECTION 9: LOST, STOLEN, OR DAMAGED DEVICES
+================================================================================
+
+9.1 What To Do If You Lose Your Company Laptop
+------------------------------------------------
+A lost company laptop is a security incident. Act immediately:
+
+  Step 1 (Within 1 hour of discovery):
+    Call the IT Security Hotline: +91-80-XXXX-XXXX (24x7).
+    Report: Your employee ID, asset tag number (on the device; if known),
+    last known location, and whether the device was encrypted and screen-locked.
+
+  Step 2 (Within 2 hours):
+    File a formal IT Security Incident via servicedesk.nexacore.in >
+    Security Incident > Lost/Stolen Device.
+
+  Step 3 (Within 24 hours):
+    File a police FIR if the device was stolen. Submit a copy of the FIR
+    to IT Security and HR.
+
+  Step 4:
+    IT Security will remotely wipe the device via Microsoft Intune if it
+    is online. If offline, the device is flagged and the wipe executes on
+    next network connection.
+
+  Step 5:
+    HR will initiate a review. If the loss was due to negligence (leaving
+    device unattended in a public place, not using a laptop bag, etc.),
+    the employee may be partially or fully liable for replacement cost.
+
+9.2 Financial Liability for Device Loss
+-----------------------------------------
+  Scenario                                  Employee Liability
+  Theft with FIR filed; device encrypted    No financial liability
+  Theft without FIR; device encrypted       25% of replacement cost
+  Loss due to negligence; encrypted         50% of replacement cost
+  Loss due to negligence; NOT encrypted     100% of replacement cost
+  Intentional damage                        100% of replacement cost
+
+Replacement cost is the current market price of an equivalent device.
+The amount is deducted from the employee's final settlement or salary in
+installments (maximum 3 months) depending on amount.
+
+9.3 Damaged Devices
+--------------------
+  - Accidental minor damage (screen crack, keyboard key loss): Repaired at
+    company expense if first instance.
+  - Repeated accidental damage: Employee bears repair cost from the second
+    incident onwards.
+  - Liquid damage: Employee bears 50% of repair or replacement cost regardless
+    of circumstance.
+  - Damage investigation: IT Head assesses whether damage was accidental or
+    due to negligence.
+
+9.4 Stolen Devices While Travelling
+--------------------------------------
+  - Report immediately to local police and NexaCore IT Security.
+  - NexaCore's corporate travel insurance covers theft of company devices
+    during approved international travel. Claim through Finance.
+  - Employee must retain the police report and insurance claim number.
+
+================================================================================
+SECTION 10: IT SUPPORT – CHANNELS AND SLAS
+================================================================================
+
+10.1 Support Channels
+----------------------
+  Channel                 Contact                           Use For
+  IT Service Desk Portal  servicedesk.nexacore.in           Tickets, requests, incidents
+  Email                   ithelp@nexacore.in                Non-urgent queries
+  Phone                   Ext. 6000 (internal)              Urgent issues
+  Walk-in Help Desk       Floor 2, Building A               Hardware, in-person support
+  Security Hotline        +91-80-XXXX-XXXX (24x7)          Security incidents only
+
+10.2 Priority Levels and SLAs
+-------------------------------
+  Priority   Description                          Response       Resolution
+  P1         Complete device/system failure       30 minutes     4 hours
+  P2         Major functionality impaired         2 hours        8 hours
+  P3         Moderate issue; workaround available 4 hours        2 days
+  P4         Minor issue or enhancement request   1 day          5 days
+
+P1 examples: Cannot log in, laptop won't start, VPN completely inaccessible.
+P2 examples: Email not syncing, development tools crashing, monitor not working.
+P3 examples: Software update needed, peripheral not working.
+P4 examples: New software request, ergonomic equipment request.
+
+10.3 Escalation
+----------------
+  - If SLA is breached, the ticket auto-escalates to the IT Team Lead.
+  - If still unresolved after 2x the SLA time, it escalates to the IT Head.
+  - For business-critical issues (client delivery at risk), the Delivery VP
+    may directly escalate to the IT Head.
+
+================================================================================
+SECTION 11: OFFBOARDING AND DEVICE RETURN
+================================================================================
+
+11.1 When Devices Must Be Returned
+------------------------------------
+Company devices must be returned:
+  - On the last working day (preferred).
+  - No later than 2 working days after the last working day.
+  - For remote employees: Via courier (IT arranges at company expense) or
+    at the nearest NexaCore office.
+
+11.2 Device Return Procedure
+------------------------------
+  Step 1: Before your last day, ensure all personal files are removed from
+          the device. NexaCore is not responsible for personal data left on
+          returned devices.
+  Step 2: Sync all work files to SharePoint/OneDrive and hand off to your
+          manager or successor.
+  Step 3: Hand in the device (with charger, peripherals, laptop bag, and
+          any accessories) to IT Help Desk.
+  Step 4: IT issues a Device Return Receipt. Keep this receipt. It is needed
+          for F&F clearance.
+  Step 5: IT remotely wipes and re-images the device.
+
+11.3 Clearance for F&F
+-----------------------
+Finance will not process the Full and Final (F&F) settlement until IT
+clearance is confirmed. IT clearance is given when:
+  - Device is returned in acceptable condition.
+  - All loaner devices are returned.
+  - No outstanding security incidents linked to the employee's account.
+
+11.4 Account Deactivation
+--------------------------
+  - All company accounts (email, Slack, Jira, GitHub, VPN) are deactivated
+    on the last working day at 6:00 PM.
+  - Access to client systems is deactivated as per the client's SLA, typically
+    immediately or within 24 hours.
+  - The employee's email account is set to auto-reply for 30 days; all emails
+    are forwarded to the manager.
+
+================================================================================
+SECTION 12: FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q1: How do I obtain VPN access?
+A: Submit a VPN Access Request at servicedesk.nexacore.in > Access Management >
+   VPN. Your manager approves it, and IT provisions access within 1 working day.
+   You will receive Cisco AnyConnect installation instructions by email.
+   Connect using your AAD credentials and MFA.
+
+Q2: I lost my company laptop. What is the process?
+A: Call the IT Security Hotline immediately (+91-80-XXXX-XXXX). File an IT
+   Security Incident ticket. If stolen, file a police FIR within 24 hours and
+   submit to IT. IT will remotely wipe the device. Financial liability depends
+   on circumstances — see Section 9.2. No liability if the device was encrypted
+   and an FIR was filed.
+
+Q3: My laptop is slow. Can I get it replaced?
+A: If your device is under 2 years old, IT will diagnose and repair or issue a
+   loaner. If it's over 2 years old, IT evaluates replacement. Submit an
+   incident ticket at the IT Service Desk.
+
+Q4: Can I install software on my own?
+A: No. All software must either be from the pre-approved list (available via
+   Company Portal) or submitted via a Software Request ticket. Unauthorised
+   installations are a security policy breach.
+
+Q5: I need a monitor for home use. Will NexaCore provide one?
+A: Band 5 and above get a monitor at their primary workstation. For home
+   monitors, submit a Hardware Request; approval depends on role requirements
+   and budget availability. It requires manager and IT Head approval if the
+   cost exceeds INR 5,000.
+
+Q6: My VPN is not connecting. What should I do?
+A: Check the VPN troubleshooting steps in Section 3.4. Most issues are
+   authentication or MFA-related. If unresolved, contact IT on Ext. 6000
+   or email ithelp@nexacore.in.
+
+Q7: What happens to my data when I leave NexaCore?
+A: All your company accounts are deactivated on your last working day. Ensure
+   you transfer all work files to SharePoint/OneDrive before leaving. Personal
+   files on company devices are your responsibility to back up before returning
+   the device. NexaCore will not recover personal data after the device is wiped.
+
+Q8: I received an email asking for my password. Is it from IT?
+A: No. NexaCore IT will never ask for your password by email or phone. This is
+   a phishing attempt. Forward the email to phishing@nexacore.in and delete it.
+
+Q9: Can I use my personal phone for work email?
+A: Yes, for reading email via web browser with MFA. Do not sync company email
+   to a personal email app unless IT has provided instructions for secure setup.
+   Company files must not be downloaded to personal devices.
+
+================================================================================
+END OF IT SETUP GUIDE v5.0
+Document Owner: Head – Information Technology
+Last Reviewed: December 2024 | Next Review Due: December 2025
+For queries: ithelp@nexacore.in | IT Help Desk: Ext. 6000
+Security Incidents: +91-80-XXXX-XXXX (24x7)
+================================================================================

@@ -1,0 +1,81 @@
+:root,
+[data-theme="dark"] {
+  --bg:           #0d1117;
+  --surface:      #161b22;
+  --card:         #1c2128;
+  --border:       #30363d;
+  --primary:      #3fb950;
+  --primary-dark: #2ea043;
+  --primary-glow: rgba(63, 185, 80, 0.12);
+  --text:         #e6edf3;
+  --muted:        #8b949e;
+  --error:        #f85149;
+  --glass-bg:     rgba(22, 27, 34, 0.85);
+  --glass-border: rgba(255, 255, 255, 0.06);
+  --glow:         0 0 20px rgba(63, 185, 80, 0.18);
+
+  /* aliases so existing component CSS still works */
+  --color-bg:           var(--bg);
+  --color-surface:      var(--surface);
+  --color-surface-2:    var(--card);
+  --color-border:       var(--border);
+  --color-border-light: #484f58;
+  --color-primary:      var(--primary);
+  --color-primary-dark: var(--primary-dark);
+  --color-primary-glow: var(--primary-glow);
+  --color-text:         var(--text);
+  --color-muted:        var(--muted);
+  --color-error:        var(--error);
+  --color-success:      var(--primary);
+  --shadow-glow:        var(--glow);
+}
+
+[data-theme="light"] {
+  --bg:           #ffffff;
+  --surface:      #f6f8fa;
+  --card:         #ffffff;
+  --border:       #d0d7de;
+  --primary:      #2ea043;
+  --primary-dark: #1a7f37;
+  --primary-glow: rgba(46, 160, 67, 0.1);
+  --text:         #1f2328;
+  --muted:        #656d76;
+  --error:        #cf222e;
+  --glass-bg:     rgba(246, 248, 250, 0.9);
+  --glass-border: rgba(0, 0, 0, 0.08);
+  --glow:         0 0 20px rgba(46, 160, 67, 0.12);
+
+  --color-bg:           var(--bg);
+  --color-surface:      var(--surface);
+  --color-surface-2:    var(--card);
+  --color-border:       var(--border);
+  --color-border-light: #afb8c1;
+  --color-primary:      var(--primary);
+  --color-primary-dark: var(--primary-dark);
+  --color-primary-glow: var(--primary-glow);
+  --color-text:         var(--text);
+  --color-muted:        var(--muted);
+  --color-error:        var(--error);
+  --color-success:      var(--primary);
+  --shadow-glow:        var(--glow);
+}
+
+:root {
+  --font-heading: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-body:    'Inter', system-ui, sans-serif;
+
+  --space-1:  4px;
+  --space-2:  8px;
+  --space-3:  12px;
+  --space-4:  16px;
+  --space-5:  20px;
+  --space-6:  24px;
+  --space-8:  32px;
+  --space-10: 40px;
+  --space-12: 48px;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 14px;
+}

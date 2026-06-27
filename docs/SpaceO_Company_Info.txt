@@ -1,0 +1,97 @@
+Space-O Technologies — Company Overview
+========================================
+
+About Space-O Technologies
+---------------------------
+Space-O Technologies is an AI-powered software development company founded in 2010.
+Headquarters: Ahmedabad, India.
+The company builds AI agents, copilots, and intelligent software solutions that drive business growth.
+They serve clients across North America, Europe, Australia, and the Middle East.
+Space-O has delivered over 300 mobile and web applications.
+
+Founders and Leadership
+-----------------------
+Space-O Technologies was co-founded by Nivan Shah and Atit Shah.
+The leadership team drives the company's vision of building AI and software solutions that solve real business problems.
+
+Services
+--------
+- Custom AI Development: AI agents, copilots, LLM integrations, RAG-based systems
+- Mobile App Development: iOS and Android apps
+- Web Application Development: Full-stack custom web platforms
+- Software Product Development: End-to-end product engineering
+- UI/UX Design: User experience design and prototyping
+- Quality Assurance: Manual and automated testing
+
+Technology Stack
+----------------
+- AI/ML: OpenAI, LangChain, LlamaIndex, Hugging Face, TensorFlow, PyTorch
+- Mobile: React Native, Flutter, Swift, Kotlin
+- Web: React, Next.js, Node.js, Python, Django, FastAPI
+- Cloud: AWS, Google Cloud, Azure
+- Databases: PostgreSQL, MongoDB, ChromaDB, Pinecone
+
+Notable Projects and Case Studies
+----------------------------------
+1. Glovo — $1.2B Unicorn On-Demand Delivery App
+   Space-O contributed to building the Glovo on-demand delivery platform.
+
+2. Fyule — Online Learning Platform ($1.4M Funding)
+   Built an online learning platform that secured $1.4M in funding.
+
+3. Sahanbook — Amazon-Like Online Bookstore
+   Developed a full e-commerce bookstore platform.
+
+4. One8 — Transportation Management System
+   Built a transportation and logistics management platform.
+
+5. GelatoGoes — Delivery Management Software
+   Custom delivery management and route optimization software.
+
+6. Nuzhah — Airbnb-Like Hotel Booking App
+   Developed a peer-to-peer hotel and accommodation booking application.
+
+7. MedCall WorkComp — On-Demand Doctor App
+   On-demand telemedicine application connecting patients with doctors.
+
+8. Swipe — Multi-Cryptocurrency Wallet App
+   Built a multi-currency crypto wallet application.
+
+9. Medical Devices Company Integration
+   Integrated custom software with a medical device company's existing processes,
+   implementing encryption and security protocols.
+
+10. Map-Based Dispatch Solution
+    Developed software for a map-based dispatch solutions provider.
+
+AI Solutions
+------------
+Space-O designs and builds custom AI-driven solutions that:
+- Automate workflows
+- Analyze data for better decision-making
+- Improve operational efficiency
+- Integrate LLMs into existing business processes
+- Build RAG (Retrieval-Augmented Generation) systems for enterprise knowledge bases
+
+Awards and Recognition
+-----------------------
+Space-O Technologies has received multiple industry awards and recognitions for software development excellence.
+They are listed on platforms like Clutch, GoodFirms, and AppFutura as a top-rated development company.
+
+Client Engagement Models
+------------------------
+- Dedicated Team Model: A full team works exclusively on the client's project
+- Fixed Price Model: Project delivered for a fixed cost and timeline
+- Time and Material Model: Flexible billing based on hours worked
+
+Contact and Offices
+--------------------
+Website: https://www.spaceotechnologies.com
+Main Office: Ahmedabad, Gujarat, India
+The company also has a presence in the United States for client-facing operations.
+
+Career and Culture
+------------------
+Space-O Technologies hires software engineers, AI/ML engineers, mobile developers,
+UI/UX designers, QA engineers, and project managers.
+The company promotes a culture of continuous learning, innovation, and client-first thinking.
