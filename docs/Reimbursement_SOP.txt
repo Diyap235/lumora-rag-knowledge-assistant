@@ -1,0 +1,669 @@
+================================================================================
+NEXACORE TECHNOLOGIES PVT. LTD.
+REIMBURSEMENT AND EXPENSE MANAGEMENT – STANDARD OPERATING PROCEDURE
+Version 2.5 | Effective Date: January 1, 2025
+Confidential – For Internal Use Only
+Document Reference: FIN-SOP-007
+================================================================================
+
+PURPOSE
+
+This Standard Operating Procedure (SOP) governs all expense reimbursements
+at NexaCore Technologies, including domestic and international travel, client
+entertainment, training expenses, equipment purchases, and miscellaneous
+business-related expenditures. The goal is to ensure timely, accurate, and
+policy-compliant reimbursement while maintaining financial integrity.
+
+All employees incurring expenses on behalf of NexaCore must follow this SOP.
+Non-compliance may result in reimbursement rejection, delayed processing, or
+disciplinary action.
+
+Cross-references:
+  - Employee Handbook (Employee_Handbook.docx): Section 10 (Travel Overview)
+  - IT Setup Guide (IT_Setup_Guide.docx): Section 8 (Equipment Purchase)
+  - Leave Policy (Leave_Policy.docx): Section 9 (L&D Reimbursement)
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1.  General Principles
+2.  Expense Categories and Entitlements by Band
+3.  Pre-Travel Approval Process
+4.  Domestic Travel – Procedures and Rules
+5.  International Travel – Procedures and Rules
+6.  Non-Travel Reimbursements
+7.  Expense Submission Process
+8.  Approval Workflow
+9.  Payment Processing
+10. Rejected Claims – Process and Appeal
+11. Advance Against Expenses
+12. Corporate Credit Card Policy
+13. Special Scenarios and Edge Cases
+14. Audit and Compliance
+15. Frequently Asked Questions
+
+================================================================================
+SECTION 1: GENERAL PRINCIPLES
+================================================================================
+
+1.1 Guiding Rules
+------------------
+  a) All expenses must be business-justified and necessary.
+  b) Employees must spend as if using their own money.
+  c) All expenses over INR 300 must be accompanied by a receipt or invoice.
+  d) Expenses must be claimed within 30 calendar days of the date incurred.
+     Claims older than 30 days require Finance Head approval and are subject
+     to rejection.
+  e) Expenses must not be split to avoid approval thresholds.
+  f) Expenses incurred for personal benefit are not reimbursable even if
+     incurred during a business trip.
+  g) All travel must use the most economical option consistent with
+     productivity (e.g., economy class for domestic flights under 4 hours).
+
+1.2 Definitions
+----------------
+  Claimant: The employee submitting the expense claim.
+  Cost Centre: The project or department code to which the expense is charged.
+  Spend Limit: The maximum permissible amount per expense type per day/trip.
+  Approver L1: Reporting Manager.
+  Approver L2: Department Head / Delivery VP.
+  Finance Reviewer: Finance team member who validates claims before payment.
+  Audit: Internal Finance audit of submitted claims (random or scheduled).
+
+================================================================================
+SECTION 2: EXPENSE CATEGORIES AND ENTITLEMENTS BY BAND
+================================================================================
+
+2.1 Domestic Air Travel
+------------------------
+  Band 1–2: Economy class only. Booking must be made 7+ days in advance.
+  Band 3–4: Economy class only.
+  Band 5–6: Economy class standard (business class if flight > 3 hours, with
+             prior approval from Delivery VP).
+  Band 7–8: Business class permitted for all domestic flights.
+
+Maximum flight cost thresholds (applicable to B1–B4):
+  Metro to Metro (e.g., BLR–MUM): INR 8,000 per sector
+  Metro to Non-Metro: INR 6,000 per sector
+  Non-Metro to Non-Metro: INR 5,000 per sector
+  Costs exceeding thresholds require Approver L2 pre-approval.
+
+2.2 Domestic Accommodation
+----------------------------
+Per-night hotel limits (exclusive of GST):
+  Band 1–2: INR 3,000
+  Band 3–4: INR 5,000
+  Band 5–6: INR 8,000
+  Band 7–8: INR 12,000
+
+Company-empaneled hotels: Preferred for all bands. See the Approved Hotel
+List on the Finance portal. Use of empaneled hotels does not require prior
+approval for amounts within band limits.
+
+Non-empaneled hotels: Require Approver L1 pre-approval.
+Airbnb, homestays, or serviced apartments: Require Approver L2 pre-approval.
+Personal accommodation (e.g., staying with a relative): INR 500/night
+nominal allowance (no receipts needed). Not eligible above B4.
+
+2.3 Domestic Per Diem (Daily Allowance)
+-----------------------------------------
+Per diem covers meals and local incidentals. It is NOT claimed in addition
+to itemised meal receipts; employees choose one method:
+
+  Method A – Per Diem (flat rate, no receipts required):
+    Band 1–2: INR 500/day
+    Band 3–4: INR 800/day
+    Band 5–6: INR 1,200/day
+    Band 7–8: INR 1,800/day
+
+  Method B – Actual Reimbursement (receipts required):
+    Band 1–2: Up to INR 700/day
+    Band 3–4: Up to INR 1,100/day
+    Band 5–6: Up to INR 1,600/day
+    Band 7–8: Reasonable, no defined cap (subject to Finance review)
+
+Note: Alcohol is not reimbursable under any method or band.
+
+2.4 Local Transport
+--------------------
+  Within city (taxi/auto/public transport): Actual cost, receipts required
+  for amounts over INR 300 per trip.
+  Cab/ride-hailing apps (Uber, Ola): Accepted. Receipt from app is sufficient.
+  Personal vehicle use: INR 12 per km (for Band 1–4); INR 15 per km (Band 5+).
+  Car rental: Requires Approver L1 pre-approval.
+  Airport-office transfer: Included in travel entitlement; no separate approval.
+
+2.5 International Travel
+-------------------------
+International travel entitlements are governed by Section 5. Summary:
+  Band 1–4: Economy class only
+  Band 5–6: Economy (business class for flights > 8 hours with VP approval)
+  Band 7–8: Business class for all international flights
+
+Per diem for international travel is based on destination country and is
+updated quarterly on the Finance portal.
+
+2.6 Client Entertainment
+-------------------------
+  Band 1–4: Up to INR 2,000 per person per event (requires L2 approval)
+  Band 5–6: Up to INR 4,000 per person per event
+  Band 7–8: Up to INR 7,000 per person per event
+  Events with clients: Guest list must be attached. Internal-only events
+  are NOT classified as client entertainment.
+
+2.7 Training and Certification
+--------------------------------
+  Annual L&D budget per employee: INR 25,000
+  Individual course/certification limit: INR 15,000 (within annual budget)
+  Above INR 15,000: Requires HR and Finance approval
+  Reimbursement requires: Course completion certificate or exam result
+
+2.8 Office Supplies and Equipment
+-----------------------------------
+  Ad-hoc office supplies (stationery, printing): Up to INR 2,000 per month
+  with manager approval; receipts required.
+  Equipment (keyboards, mice, monitors, etc.): Subject to IT policy and
+  pre-approval. Refer to IT_Setup_Guide.docx Section 8.
+
+================================================================================
+SECTION 3: PRE-TRAVEL APPROVAL PROCESS
+================================================================================
+
+3.1 When Pre-Approval is Required
+-----------------------------------
+Pre-approval is MANDATORY for:
+  - All domestic travel outside the employee's base city
+  - All international travel
+  - Any single expense expected to exceed INR 10,000
+  - Travel during a project critical milestone (last 3 working days of a sprint
+    or before a major delivery)
+
+3.2 Travel Request Submission
+-------------------------------
+Step 1: Employee logs into the NexaCore Finance Portal (finance.nexacore.in).
+Step 2: Navigate to Travel > New Travel Request.
+Step 3: Fill in:
+  - Travel purpose and business justification
+  - Destination and travel dates
+  - Estimated cost breakdown (flights, accommodation, per diem)
+  - Cost Centre code
+Step 4: Submit for approval.
+Step 5: Approval obtained before any bookings are made.
+
+3.3 Travel Bookings
+--------------------
+  All flight and hotel bookings must be made through:
+    a) The NexaCore Travel Portal (travel.nexacore.in) — preferred and
+       recommended.
+    b) The designated Travel Desk (traveldesk@nexacore.in) — for complex
+       or international itineraries.
+    c) Self-booking — permitted only when the travel portal is unavailable.
+       Must notify traveldesk@nexacore.in within 24 hours and submit receipts.
+
+  Bookings through personal travel agents or platforms not approved by Finance
+  are not reimbursable unless exceptional circumstances are documented.
+
+================================================================================
+SECTION 4: DOMESTIC TRAVEL – PROCEDURES AND RULES
+================================================================================
+
+4.1 Day Trips
+--------------
+A day trip is travel where the employee does not stay overnight.
+  - No accommodation reimbursement.
+  - 50% per diem applies if travel exceeds 4 hours away from base city.
+  - Full per diem applies if away for the entire working day (8+ hours).
+  - Local transport to/from airport/station is reimbursable.
+
+4.2 Multi-Day Travel
+---------------------
+  - Accommodation from Check-in Night 1.
+  - First day and last day per diem: 75% of full rate.
+  - Other days: Full per diem.
+  - Weekend stays: Allowed only if travelling back would cost more than the
+    additional accommodation, or if a Monday engagement is early morning.
+    Approver L1 must approve weekend stays.
+
+4.3 Travel Cancellation
+------------------------
+If approved travel is cancelled:
+  - Cancellation charges are reimbursable if the trip was cancelled for a
+    business reason documented in writing.
+  - Cancellation due to personal reasons: Charges are borne by the employee.
+  - For Travel Portal bookings: Finance team handles cancellation and
+    applies policies automatically.
+  - For self-booked trips: Employee submits refund received and cancellation
+    receipt. Only the non-refunded portion is reimbursable.
+
+4.4 Extended Stays
+-------------------
+If an employee extends a business trip for personal reasons:
+  - The business portion of expenses is reimbursable.
+  - The personal extension portion (accommodation, per diem, return flight
+    difference) is borne entirely by the employee.
+  - If the personal extension actually reduces the company's return flight cost
+    (e.g., weekend stay to get a cheaper Monday flight), the company reimburses
+    up to the cost of the original flight; the employee pays the difference
+    in accommodation.
+
+================================================================================
+SECTION 5: INTERNATIONAL TRAVEL – PROCEDURES AND RULES
+================================================================================
+
+5.1 Pre-Travel Requirements
+----------------------------
+In addition to standard travel approval, international travel requires:
+  a) Business Visa (if applicable): Supported by HR and Admin team.
+  b) Foreign Currency: Obtainable via petty cash advance (see Section 11)
+     or using the corporate card (see Section 12).
+  c) International SIM or Roaming Plan: Reimbursable up to the plan
+     approved by IT. Refer to IT_Setup_Guide.docx, Section 5.
+  d) Travel Insurance: NexaCore's corporate travel insurance covers all
+     approved international travel. Employees must carry the policy card.
+  e) Emergency Contact Registration: Employee must update emergency contact
+     in the HR portal before departure.
+
+5.2 International Per Diem Rates
+----------------------------------
+Per diem rates by region (USD/day equivalent; paid in local currency
+or USD as applicable):
+
+  Destination         B1–B4      B5–B6      B7–B8
+  North America       $75        $120       $180
+  Europe              $80        $130       $190
+  Southeast Asia      $50        $80        $120
+  Middle East         $60        $100       $150
+  Rest of World       $50        $80        $130
+
+These rates include meals, local transport, and incidentals.
+Accommodation is separate and reimbursed at actuals (within band limits):
+  Band 1–4: Up to $150/night
+  Band 5–6: Up to $250/night
+  Band 7–8: Actuals (Finance review for amounts exceeding $400/night)
+
+5.3 Currency and Exchange
+--------------------------
+  - Employees must retain original receipts in foreign currency.
+  - Conversion to INR uses the RBI reference rate on the date of the expense.
+  - ATM or credit card foreign transaction fees are reimbursable up to 3.5%.
+  - Unexpended foreign currency must be returned to Finance within 3 working
+    days of return, or within 7 days if exchange is required.
+
+================================================================================
+SECTION 6: NON-TRAVEL REIMBURSEMENTS
+================================================================================
+
+6.1 Mobile Phone Reimbursement
+--------------------------------
+All confirmed employees are eligible for monthly mobile reimbursement:
+  Band 1–2: INR 500/month
+  Band 3–4: INR 750/month
+  Band 5–6: INR 1,200/month
+  Band 7–8: INR 2,000/month
+  Submit: Monthly bill or operator receipt via portal. No carry-forward.
+
+6.2 Internet Reimbursement (for Remote Work)
+----------------------------------------------
+Employees working from home more than 10 days a month may claim:
+  Band 1–4: INR 600/month (broadband bill required)
+  Band 5+:  INR 1,000/month
+
+6.3 Relocation Expenses
+------------------------
+Employees relocated at the company's request are eligible for:
+  - Packing and moving costs: Actuals (with invoices from approved mover)
+  - Temporary accommodation: Up to 14 days hotel at band limits
+  - Miscellaneous: Up to INR 10,000 one-time allowance (no receipts)
+  Self-initiated relocation is not reimbursable.
+
+6.4 Medical Claim (Out-of-Pocket)
+-----------------------------------
+For medical expenses not covered by the Group Mediclaim (e.g., consultation
+below deductible, non-covered treatment):
+  - Not directly reimbursable through Expense Management.
+  - Employee must file with the TPA through the health insurance process.
+  - OPD Allowance (if part of CTC): Claim through payroll declaration.
+
+================================================================================
+SECTION 7: EXPENSE SUBMISSION PROCESS
+================================================================================
+
+7.1 Submission Steps
+---------------------
+Step 1: Collect all receipts (physical or digital).
+Step 2: Log into Finance Portal > Expenses > New Claim.
+Step 3: Select expense category and applicable trip (if travel-related).
+Step 4: Enter each expense line:
+  - Date, category, amount, currency, description, receipt upload.
+Step 5: Assign the correct Cost Centre code (obtain from your project manager
+        if unknown).
+Step 6: Submit the claim before the 25th of each month for processing in
+        the current month's payroll.
+
+Claims submitted after the 25th are processed in the following month's payroll.
+
+7.2 Receipt Requirements
+-------------------------
+  Receipts are REQUIRED for all expenses above INR 300.
+  Acceptable receipt formats:
+    - Original printed receipts
+    - Digital invoices (PDF, JPG, PNG) — minimum 150 DPI
+    - Email confirmations from hotels/airlines
+  Not acceptable:
+    - Photos of screens/monitors showing transaction details
+    - Handwritten receipts from unregistered vendors
+    - Credit card statements alone (without itemised receipt)
+
+7.3 Submission Deadline
+------------------------
+  General rule: Submit within 30 days of the expense date.
+  End of year: All claims for December must be submitted by December 25.
+  International travel: Submit within 15 days of return date (for currency
+  reconciliation purposes).
+
+  Late submissions (31–60 days): Require Finance Head approval.
+  Very late submissions (61+ days): Not reimbursable. No exceptions.
+
+================================================================================
+SECTION 8: APPROVAL WORKFLOW
+================================================================================
+
+8.1 Approval Tiers
+-------------------
+  Claim Amount          Approver L1              Approver L2
+  Up to INR 5,000       Reporting Manager        Not Required
+  INR 5,001–25,000      Reporting Manager        Department Head
+  INR 25,001–1,00,000   Reporting Manager        Delivery VP + Finance Head
+  Above INR 1,00,000    Reporting Manager        CFO approval required
+
+8.2 Who Approves Travel Reimbursement?
+----------------------------------------
+For standard domestic travel reimbursement:
+  - Claims up to INR 25,000: Reporting Manager only.
+  - Claims above INR 25,000: Reporting Manager + Delivery VP.
+  - All approved claims then go through Finance Reviewer before payment.
+
+For international travel reimbursement:
+  - All amounts: Reporting Manager + Finance Head.
+  - Above INR 1,00,000: Also requires CFO sign-off.
+
+8.3 Finance Review
+-------------------
+After manager approval, the Finance team reviews all claims for:
+  - Policy compliance (correct band, within limits, receipts attached)
+  - Correct Cost Centre allocation
+  - Currency conversion accuracy (international)
+  - Duplicate claim detection
+  Finance review SLA: 3 working days.
+
+================================================================================
+SECTION 9: PAYMENT PROCESSING
+================================================================================
+
+9.1 Payment Timeline
+---------------------
+Claims submitted and fully approved by the 25th of the month:
+  → Paid in the same month's salary (last working day of the month).
+
+Claims submitted and approved after the 25th:
+  → Paid in the next month's salary.
+
+Claims requiring additional documentation or approval:
+  → Processed within 5 working days of completion of all requirements.
+
+9.2 Payment Method
+-------------------
+Reimbursements are credited directly to the employee's registered bank account
+(same account as salary). No cash reimbursements above INR 2,000.
+
+9.3 Partial Payments
+---------------------
+If part of a claim is approved and part is rejected:
+  - Approved portion is paid in the normal cycle.
+  - Rejected portion triggers a rejection notice (see Section 10).
+  - Employee may appeal the rejected portion separately.
+
+================================================================================
+SECTION 10: REJECTED CLAIMS – PROCESS AND APPEAL
+================================================================================
+
+10.1 Reasons for Rejection
+----------------------------
+Common reasons for rejection include:
+  a) Missing or inadequate receipts.
+  b) Claim submitted beyond the 30-day deadline without approval.
+  c) Amount exceeds band entitlement without prior approval.
+  d) Non-business expense submitted (e.g., personal meal, entertainment
+     without business purpose stated).
+  e) Duplicate claim (same expense submitted twice).
+  f) Incorrect or missing Cost Centre.
+  g) Non-approved vendor or booking channel.
+
+10.2 Rejection Notification
+-----------------------------
+The Finance Portal automatically sends a rejection notification to the
+employee with:
+  - The specific expense lines rejected.
+  - The reason code for each rejected line.
+  - Instructions for appeal or resubmission.
+
+10.3 What To Do If Your Reimbursement Was Rejected
+----------------------------------------------------
+Step 1: Review the rejection notice carefully. Identify the reason code.
+
+Step 2: For administrative rejections (missing receipt, wrong Cost Centre,
+        data entry error):
+  - Correct the error and resubmit within 7 days.
+  - Resubmitted claims are re-reviewed within 3 working days.
+
+Step 3: For policy-based rejections (over limit, non-eligible expense):
+  - If you believe the rejection was in error:
+    a) Gather supporting documentation (approval email, exception note).
+    b) Submit an Expense Appeal Form via the Finance Portal within 10 working
+       days of the rejection date.
+    c) The Finance Head reviews the appeal within 5 working days.
+    d) If the appeal is upheld, payment is made in the next cycle.
+    e) If the appeal is denied, the Finance Head provides a written explanation.
+
+Step 4: If the Finance Head denies the appeal and you believe the decision is
+        still incorrect:
+  - Escalate to the CFO via the Finance Portal within 5 working days.
+  - The CFO's decision is final.
+
+Step 5: If the rejection involves a potential policy ambiguity or systemic issue:
+  - Report to Finance Business Partner and HR concurrently.
+  - Finance Business Partner will escalate to the Finance Policy Committee.
+
+10.4 Resubmission Limits
+--------------------------
+An expense line may be resubmitted a maximum of 2 times. After 2 unsuccessful
+submissions, the claim is permanently rejected. No further resubmission or
+appeal is permitted.
+
+================================================================================
+SECTION 11: ADVANCE AGAINST EXPENSES
+================================================================================
+
+11.1 When Advances are Available
+----------------------------------
+Employees may request a cash advance for:
+  - Domestic travel expected to exceed INR 5,000
+  - All international travel
+  - Events or purchases where pre-payment is required
+
+11.2 Advance Request Process
+------------------------------
+Step 1: Submit Advance Request via Finance Portal > Advances > New Request.
+Step 2: Attach approved Travel Request (mandatory).
+Step 3: Approver L1 approves the advance.
+Step 4: Finance processes the advance within 3 working days.
+Step 5: Advance is credited to the employee's bank account.
+
+11.3 Advance Settlement
+-------------------------
+  - Domestic advances: Must be settled within 7 days of return.
+  - International advances: Must be settled within 10 days of return.
+  - Settlement = Submit actual expense claim + return any unspent advance.
+
+Unspent advance not returned within the deadline is deducted from salary.
+
+11.4 Outstanding Advance Policy
+---------------------------------
+Employees with an unsettled advance may not apply for a new advance. Outstanding
+advances are flagged in the Finance Portal. More than 2 outstanding advances
+in a year results in advance privileges being suspended for 6 months.
+
+================================================================================
+SECTION 12: CORPORATE CREDIT CARD POLICY
+================================================================================
+
+12.1 Eligibility
+-----------------
+Corporate credit cards are issued to:
+  - Band 5 and above (automatically upon confirmation)
+  - Band 3–4 employees who travel more than 8 times a year (with approval)
+
+12.2 Usage Rules
+-----------------
+  - Corporate cards may only be used for pre-approved business expenses.
+  - Personal expenses on corporate cards are strictly prohibited and must
+    be refunded immediately upon discovery.
+  - Monthly statement must be reconciled by the 5th of the following month.
+  - Lost or stolen cards must be reported to Finance within 4 hours.
+    Contact: +91-80-XXXX-XXXX (24x7 Finance helpdesk).
+
+12.3 Credit Limits
+-------------------
+  Band 3–4: INR 75,000/month
+  Band 5–6: INR 2,00,000/month
+  Band 7–8: INR 5,00,000/month
+
+12.4 Card Suspension
+---------------------
+Cards are suspended if:
+  - Reconciliation is not submitted for 2 consecutive months.
+  - A personal expense is not refunded within 7 days.
+  - The employee is placed on a PIP or suspended.
+
+================================================================================
+SECTION 13: SPECIAL SCENARIOS AND EDGE CASES
+================================================================================
+
+13.1 Travel for Training or Certification
+------------------------------------------
+  - Travel to attend an approved training counts as business travel.
+  - All standard travel rules apply.
+  - Training fee is claimed separately under L&D budget.
+  - If the training is self-initiated (not assigned by manager), travel is
+    reimbursed only if the course is on the approved internal course list.
+
+13.2 Travel Injury or Medical Emergency Abroad
+------------------------------------------------
+  - NexaCore's corporate travel insurance covers emergency medical treatment.
+  - Employees must contact the Travel Insurance Helpline immediately.
+  - Out-of-pocket medical expenses abroad (up to $1,000) are reimbursable
+    with receipts and a claim form.
+  - Above $1,000: Insurance claim process must be followed.
+
+13.3 Client-Paid Expenses
+--------------------------
+  - If a client covers the employee's travel or entertainment, those costs
+    must NOT be claimed from NexaCore.
+  - If the employee paid and will be reimbursed by the client, the claim
+    must be routed through the client billing team, not through the internal
+    Finance portal.
+
+13.4 Team Events and Off-sites
+--------------------------------
+  - Departmental team events (meals, off-site): Organised by the manager,
+    approved by Department Head. Claimed by the organiser.
+  - Per-person budget: INR 1,500 for standard team lunch; INR 3,000 for
+    off-site day event.
+  - Venue booking, catering invoices required.
+
+13.5 Toll, Parking, and Baggage Fees
+--------------------------------------
+  - Tolls: Reimbursable with ETC statement or receipt.
+  - Parking (at office or airport): Reimbursable for business travel only.
+  - Checked baggage fees: 1 checked bag reimbursable for trips over 5 days.
+    Additional bags require L1 pre-approval.
+
+================================================================================
+SECTION 14: AUDIT AND COMPLIANCE
+================================================================================
+
+14.1 Random Audits
+-------------------
+Finance conducts random audits of 10% of all submitted claims each month.
+Employees selected for audit must provide original receipts within 5 working
+days.
+
+14.2 Systematic Fraud Indicators
+----------------------------------
+The Finance system flags claims for manual review when:
+  - The same expense is submitted more than once (same date, amount, vendor).
+  - Per diem is claimed for dates when the employee's travel portal shows
+    no booking.
+  - Claim amounts consistently hit the maximum limit across multiple trips.
+  - Mileage claims are submitted for dates when no travel request was approved.
+
+14.3 Consequences of Fraudulent Claims
+----------------------------------------
+Submitting fraudulent, inflated, or false expense claims is classified as
+Major Misconduct under the Employee Handbook (Section 12.2) and may result in:
+  - Immediate suspension pending investigation.
+  - Recovery of the fraudulent amount.
+  - Termination.
+  - Criminal proceedings if the amount warrants legal action.
+
+================================================================================
+SECTION 15: FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q1: Who approves travel reimbursement?
+A: For claims up to INR 25,000, only the reporting manager is required. For
+   claims above INR 25,000, both the Reporting Manager and the Delivery VP
+   must approve. All international travel claims also require the Finance Head.
+   The CFO approves claims above INR 1,00,000.
+
+Q2: My reimbursement was rejected. What should I do?
+A: Review the rejection reason in the Finance Portal. If it's a documentation
+   error, correct and resubmit within 7 days. If you believe the rejection is
+   a policy error, submit an Expense Appeal Form within 10 working days. If
+   the Finance Head also denies it, escalate to the CFO within 5 working days.
+
+Q3: I forgot to submit my claim within 30 days. Can I still claim it?
+A: Claims between 31 and 60 days old require Finance Head approval. Claims
+   older than 60 days cannot be reimbursed under any circumstance.
+
+Q4: Can I book my own flight and hotel instead of using the travel portal?
+A: Self-booking is allowed only when the travel portal is unavailable.
+   You must notify traveldesk@nexacore.in within 24 hours and submit all
+   receipts. Bookings through personal travel agents are not reimbursable.
+
+Q5: I upgraded to business class on my own. Will NexaCore reimburse it?
+A: No. Only the economy class equivalent (or the amount you were entitled to
+   for your band) is reimbursed. If you upgrade at your own expense, you pay
+   the difference.
+
+Q6: What happens if I submit a duplicate claim accidentally?
+A: The Finance system will automatically flag it. No action is needed from
+   your side; the duplicate will be removed. If you realise it before the
+   review, cancel it from the portal.
+
+Q7: I used a client's cab. Can I still claim transport?
+A: No. Expenses already paid by the client must not be claimed from NexaCore.
+
+Q8: My advance is not settled because the Finance Portal was down. Will
+    it affect my salary?
+A: If the portal downtime is documented and acknowledged by Finance IT, a
+    grace period will be granted. Contact finance@nexacore.in with evidence
+    of the portal downtime immediately.
+
+================================================================================
+END OF REIMBURSEMENT SOP v2.5
+Document Owner: Head – Finance and Accounts
+Last Reviewed: October 2024 | Next Review Due: October 2025
+For queries: expenses@nexacore.in | Finance Helpdesk: Ext. 5000
+================================================================================

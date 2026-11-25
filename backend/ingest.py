@@ -150,6 +150,7 @@ def _chunk_and_store(docs: list[Document], source_name: str) -> int:
     current_version = next(
         (d["version"] for d in existing if d["source"] == source_name), 0
     )
+    
     new_version = current_version + 1
     uploaded_at = datetime.now().strftime("%Y-%m-%d %H:%M")
 

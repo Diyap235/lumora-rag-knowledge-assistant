@@ -85,8 +85,14 @@ def ask(body: AskRequest):
         raise HTTPException(status_code=400, detail="Question cannot be empty.")
 
     try:
+        import time
+        start = time.time()
+        print(f"[/ask] Processing question: {body.question[:50]}...")
         result = ask_question(body.question)
+        elapsed = time.time() - start
+        print(f"[/ask] Completed in {elapsed:.2f}s")
     except Exception as e:
+        print(f"[/ask] Error: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
     return AskResponse(answer=result["answer"], sources=result["sources"])

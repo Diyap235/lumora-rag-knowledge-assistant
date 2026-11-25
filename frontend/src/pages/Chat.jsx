@@ -138,11 +138,17 @@ export default function Chat() {
     setLoading(true)
 
     try {
+      const controller = new AbortController()
+      const timeout = setTimeout(() => controller.abort(), 60000) // 60 second timeout
+
       const res = await fetch(`${apiBaseUrl}/ask`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ question: q }),
+        signal: controller.signal
       })
+      clearTimeout(timeout)
+      
       const data = await res.json()
       if (!res.ok) throw new Error(data.detail || 'Request failed')
 

@@ -75,7 +75,7 @@ def rerank_leave_docs(docs: list, question: str) -> list:
 
 
 LLM = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model="openai/gpt-oss-20b",
     temperature=0,
     api_key=os.getenv("GROQ_API_KEY")
 )
@@ -184,7 +184,6 @@ def clean_answer(text: str) -> str:
 def ask_question(question: str) -> dict:
 
     # --- instant local responses ---
-
     # acknowledgements run first — "okay" must not fall into greeting check
     if is_acknowledgement(question):
         return {
